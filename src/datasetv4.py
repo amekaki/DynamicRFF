@@ -8,7 +8,29 @@ from .Gengrate_Dataset import *
 import pandas as pd
 from marveltoolbox.utils import TorchComplex as tc
 import random
-DATASET_DIR = '/home/workplace/data/'
+DATASET_DIR = 'data/'
+
+channelSetting  = {
+    'los1':{
+        'power': [0.8, 1.0],  # 功率范围 0.5 到 1.0
+        'SNR': [25, 35],  # 信噪比范围 25 到 35，单位dB
+        'PathDelay': [0, 30e-6],  # 路径延迟范围
+        'AvgPathGain': [-30, -25],  # 路径增益范围，单位dB
+        'PathNum': [2, 3],  # 多径数量,
+        'K':[15,20],
+        'fd':[4,5]
+    },
+    'los2':{
+        'power': [0.7, 1.0],  # 功率范围 0.5 到 1.0
+        'SNR': [20, 25],  # 信噪比范围 25 到 35，单位dB
+        'PathDelay': [0, 30e-6],  # 路径延迟范围
+        'AvgPathGain': [-30, -20],  # 路径增益范围，单位dB
+        'PathNum': [2, 5],  # 多径数量,
+        'K':[15,20],
+        'fd':[4,5]
+    }
+}
+
 class RFdataset(data.Dataset):
     
     def random_channel(self, ChannelNum, DeviceNum, config):
@@ -49,16 +71,16 @@ class RFdataset(data.Dataset):
                 dyRB_len_list.append(30)
                 dyRB_len_list.append(40)
                 UserId = UserId + 1
-        x = dataset[:, :13]
-        y_user = dataset[:,-2]
-        y_rff = dataset[:,-1]
+        # x = dataset[:, :13]
+        # y_user = dataset[:,-2]
+        # y_rff = dataset[:,-1]
         # print(np.unique(y_user))
         # print(np.unique(y_rff))
         self.data['x'] = torch.from_numpy(np.asarray(dyRB_x_list)).float()
         self.data['y'] = torch.from_numpy(np.asarray(dyRB_y_list))
         self.data['len'] = torch.from_numpy(np.asarray(dyRB_len_list))
-        self.data['y_rff'] = tc.array2tensor(y_rff)[:,0].view(-1).long()
-        self.data['y_user'] = tc.array2tensor(y_user)[:,0].view(-1).long()
+        # self.data['y_rff'] = tc.array2tensor(y_rff)[:,0].view(-1).long()
+        # self.data['y_user'] = tc.array2tensor(y_user)[:,0].view(-1).long()
         return dataset
 
     def generateWaveform(self, ChannelNum, DeviceNum):
@@ -83,35 +105,38 @@ class RFdataset(data.Dataset):
         self.label = label
         self.data = {}
         self.ChannelNum = ChannelNum
-        self.config =config
+        self.config =channelSetting[config['channelName']]
         self.DeviceNum = DeviceNum
         self.datasetname = datasetname
-        data_dir = DATASET_DIR+'/dynamic/'
-        data_path = f"{data_dir}/{datasetname}dataset.csv"
+        data_dir = DATASET_DIR+'/dynamic/'+config['channelName']+'-'+str(ChannelNum)+'-'+str(DeviceNum)
+        # data_path = f"{data_dir}/{datasetname}dataset.csv"
         dy_x_path = f"{data_dir}/{datasetname}_x.pt"
         dy_y_path = f"{data_dir}/{datasetname}_y.pt"
         dy_len_path = f"{data_dir}/{datasetname}_len.pt"
+        print(dy_x_path)
         if not regenerate_flag and os.path.exists(dy_x_path):           # 读取
             print(f"Loading dataset from {dy_x_path}...")
-            df = pd.read_csv(data_path, header=None).astype('complex')
-            data = df.to_numpy()
-            x = data[:, :13]
-            y_user = data[:,-2]
-            y_rff = data[:,-1]
-            self.data['x'] = tc.array2tensor(x).float()
-            self.data['y_rff'] = tc.array2tensor(y_rff)[:,0].view(-1).long()
-            self.data['y_user'] = tc.array2tensor(y_user)[:,0].view(-1).long()
+            # df = pd.read_csv(data_path, header=None).astype('complex')
+            # data = df.to_numpy()
+            # x = data[:, :13]
+            # y_user = data[:,-2]
+            # y_rff = data[:,-1]
+            # self.data['x'] = tc.array2tensor(x).float()
+            # self.data['y_rff'] = tc.array2tensor(y_rff)[:,0].view(-1).long()
+            # self.data['y_user'] = tc.array2tensor(y_user)[:,0].view(-1).long()
             self.data['x'] = torch.load(dy_x_path)
             self.data['y'] = torch.load(dy_y_path)
             self.data['len'] = torch.load(dy_len_path)
         else:# 生成并保存
+            if not os.path.exists(data_dir):
+                os.makedirs(data_dir)
             print("Generating new dataset...")
             # 生成或读取已经添加指纹的接入数据
             self.generateWaveform(ChannelNum, DeviceNum)
             # 加噪，加信道，并解调生成数据集
-            dataset = self.random_channel(ChannelNum, DeviceNum, config)
-            dataset_pd = pd.DataFrame(dataset)
-            dataset_pd.to_csv(data_path, index=False, header=False)
+            dataset = self.random_channel(ChannelNum, DeviceNum,self.config)
+            # dataset_pd = pd.DataFrame(dataset)
+            # dataset_pd.to_csv(data_path, index=False, header=False)
             torch.save(self.data['x'], dy_x_path)
             torch.save(self.data['y'], dy_y_path)
             torch.save(self.data['len'], dy_len_path)
@@ -124,10 +149,10 @@ class RFdataset(data.Dataset):
         y = self.data['y'][index]
         x_len = self.data['len'][index]
         return x,y,x_len
-        if self.label=='user':            
-            return x, self.data['y_user'][index]
-        elif self.label == 'rff':
-            return x, self.data['y_rff'][index]
+        # if self.label=='user':            
+        #     return x, self.data['y_user'][index]
+        # elif self.label == 'rff':
+        #     return x, self.data['y_rff'][index]
 
 def main():
     config = {
