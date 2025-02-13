@@ -1,0 +1,2405 @@
+Epoch/Iter:000/0000 Train Loss:2.303612 
+Epoch/Iter:000/0000 Test Loss:1.778578 acc:0.255068 data:val 
+step: 001/600 0% [Remain: 0h/13m/43s | 1.37s/step]
+
+Epoch/Iter:001/0000 Train Loss:1.735400 
+Epoch/Iter:001/0000 Test Loss:1.887632 acc:0.208193 data:val 
+step: 002/600 0% [Remain: 0h/13m/52s | 1.39s/step]
+
+Epoch/Iter:002/0000 Train Loss:1.835401 
+Epoch/Iter:002/0000 Test Loss:1.256031 acc:0.428209 data:val 
+step: 003/600 0% [Remain: 0h/14m/ 3s | 1.41s/step]
+
+Epoch/Iter:003/0000 Train Loss:1.320114 
+Epoch/Iter:003/0000 Test Loss:1.130044 acc:0.481841 data:val 
+step: 004/600 1% [Remain: 0h/14m/ 0s | 1.41s/step]
+
+Epoch/Iter:004/0000 Train Loss:1.082720 
+Epoch/Iter:004/0000 Test Loss:1.425312 acc:0.380490 data:val 
+step: 005/600 1% [Remain: 0h/13m/47s | 1.39s/step]
+
+Epoch/Iter:005/0000 Train Loss:1.430168 
+Epoch/Iter:005/0000 Test Loss:1.108638 acc:0.443412 data:val 
+step: 006/600 1% [Remain: 0h/13m/41s | 1.38s/step]
+
+Epoch/Iter:006/0000 Train Loss:1.049441 
+Epoch/Iter:006/0000 Test Loss:1.105016 acc:0.461993 data:val 
+step: 007/600 1% [Remain: 0h/13m/38s | 1.38s/step]
+
+Epoch/Iter:007/0000 Train Loss:1.081944 
+Epoch/Iter:007/0000 Test Loss:1.090145 acc:0.513936 data:val 
+step: 008/600 1% [Remain: 0h/13m/36s | 1.38s/step]
+
+Epoch/Iter:008/0000 Train Loss:1.001249 
+Epoch/Iter:008/0000 Test Loss:0.980421 acc:0.515203 data:val 
+step: 009/600 2% [Remain: 0h/13m/41s | 1.39s/step]
+
+Epoch/Iter:009/0000 Train Loss:0.961420 
+Epoch/Iter:009/0000 Test Loss:1.083580 acc:0.471284 data:val 
+step: 010/600 2% [Remain: 0h/13m/37s | 1.39s/step]
+
+Epoch/Iter:010/0000 Train Loss:1.044173 
+Epoch/Iter:010/0000 Test Loss:1.012455 acc:0.521115 data:val 
+step: 011/600 2% [Remain: 0h/13m/33s | 1.38s/step]
+
+Epoch/Iter:011/0000 Train Loss:1.259537 
+Epoch/Iter:011/0000 Test Loss:0.972637 acc:0.528294 data:val 
+step: 012/600 2% [Remain: 0h/13m/24s | 1.37s/step]
+
+Epoch/Iter:012/0000 Train Loss:0.983477 
+Epoch/Iter:012/0000 Test Loss:0.995275 acc:0.497466 data:val 
+step: 013/600 2% [Remain: 0h/13m/22s | 1.37s/step]
+
+Epoch/Iter:013/0000 Train Loss:1.045231 
+Epoch/Iter:013/0000 Test Loss:0.988663 acc:0.491976 data:val 
+step: 014/600 2% [Remain: 0h/13m/15s | 1.36s/step]
+
+Epoch/Iter:014/0000 Train Loss:0.919239 
+Epoch/Iter:014/0000 Test Loss:0.976588 acc:0.502956 data:val 
+step: 015/600 2% [Remain: 0h/13m/13s | 1.36s/step]
+
+Epoch/Iter:015/0000 Train Loss:1.026759 
+Epoch/Iter:015/0000 Test Loss:0.960691 acc:0.513091 data:val 
+step: 016/600 3% [Remain: 0h/13m/13s | 1.36s/step]
+
+Epoch/Iter:016/0000 Train Loss:0.800728 
+Epoch/Iter:016/0000 Test Loss:0.945609 acc:0.513514 data:val 
+step: 017/600 3% [Remain: 0h/13m/14s | 1.36s/step]
+
+Epoch/Iter:017/0000 Train Loss:1.094782 
+Epoch/Iter:017/0000 Test Loss:1.009828 acc:0.495355 data:val 
+step: 018/600 3% [Remain: 0h/13m/13s | 1.36s/step]
+
+Epoch/Iter:018/0000 Train Loss:0.958856 
+Epoch/Iter:018/0000 Test Loss:0.921936 acc:0.535895 data:val 
+step: 019/600 3% [Remain: 0h/13m/12s | 1.36s/step]
+
+Epoch/Iter:019/0000 Train Loss:0.855210 
+Epoch/Iter:019/0000 Test Loss:0.961745 acc:0.534628 data:val 
+step: 020/600 3% [Remain: 0h/13m/13s | 1.37s/step]
+
+Epoch/Iter:020/0000 Train Loss:1.077376 
+Epoch/Iter:020/0000 Test Loss:0.916006 acc:0.534628 data:val 
+step: 021/600 4% [Remain: 0h/13m/10s | 1.37s/step]
+
+Epoch/Iter:021/0000 Train Loss:0.920116 
+Epoch/Iter:021/0000 Test Loss:0.902848 acc:0.541385 data:val 
+step: 022/600 4% [Remain: 0h/13m/ 8s | 1.36s/step]
+
+Epoch/Iter:022/0000 Train Loss:0.832459 
+Epoch/Iter:022/0000 Test Loss:0.890681 acc:0.559122 data:val 
+step: 023/600 4% [Remain: 0h/13m/ 9s | 1.37s/step]
+
+Epoch/Iter:023/0000 Train Loss:0.941867 
+Epoch/Iter:023/0000 Test Loss:0.855012 acc:0.593750 data:val 
+step: 024/600 4% [Remain: 0h/13m/10s | 1.37s/step]
+
+Epoch/Iter:024/0000 Train Loss:0.799599 
+Epoch/Iter:024/0000 Test Loss:0.853925 acc:0.604307 data:val 
+step: 025/600 4% [Remain: 0h/13m/10s | 1.38s/step]
+
+Epoch/Iter:025/0000 Train Loss:0.871806 
+Epoch/Iter:025/0000 Test Loss:1.035254 acc:0.519848 data:val 
+step: 026/600 4% [Remain: 0h/13m/11s | 1.38s/step]
+
+Epoch/Iter:026/0000 Train Loss:0.838647 
+Epoch/Iter:026/0000 Test Loss:0.825312 acc:0.616554 data:val 
+step: 027/600 4% [Remain: 0h/13m/ 9s | 1.38s/step]
+
+Epoch/Iter:027/0000 Train Loss:0.904775 
+Epoch/Iter:027/0000 Test Loss:0.920263 acc:0.549409 data:val 
+step: 028/600 5% [Remain: 0h/13m/10s | 1.38s/step]
+
+Epoch/Iter:028/0000 Train Loss:0.949621 
+Epoch/Iter:028/0000 Test Loss:0.734357 acc:0.644426 data:val 
+step: 029/600 5% [Remain: 0h/13m/ 9s | 1.38s/step]
+
+Epoch/Iter:029/0000 Train Loss:0.674980 
+Epoch/Iter:029/0000 Test Loss:0.769859 acc:0.661318 data:val 
+step: 030/600 5% [Remain: 0h/13m/ 5s | 1.38s/step]
+
+Epoch/Iter:030/0000 Train Loss:0.712622 
+Epoch/Iter:030/0000 Test Loss:0.726855 acc:0.652027 data:val 
+step: 031/600 5% [Remain: 0h/13m/ 4s | 1.38s/step]
+
+Epoch/Iter:031/0000 Train Loss:0.666323 
+Epoch/Iter:031/0000 Test Loss:0.696957 acc:0.668497 data:val 
+step: 032/600 5% [Remain: 0h/13m/ 3s | 1.38s/step]
+
+Epoch/Iter:032/0000 Train Loss:0.592367 
+Epoch/Iter:032/0000 Test Loss:0.670744 acc:0.673986 data:val 
+step: 033/600 6% [Remain: 0h/13m/ 3s | 1.38s/step]
+
+Epoch/Iter:033/0000 Train Loss:0.431158 
+Epoch/Iter:033/0000 Test Loss:0.698305 acc:0.662584 data:val 
+step: 034/600 6% [Remain: 0h/13m/ 2s | 1.38s/step]
+
+Epoch/Iter:034/0000 Train Loss:0.636985 
+Epoch/Iter:034/0000 Test Loss:0.825863 acc:0.587416 data:val 
+step: 035/600 6% [Remain: 0h/13m/ 1s | 1.38s/step]
+
+Epoch/Iter:035/0000 Train Loss:0.744893 
+Epoch/Iter:035/0000 Test Loss:0.913564 acc:0.537162 data:val 
+step: 036/600 6% [Remain: 0h/13m/ 0s | 1.38s/step]
+
+Epoch/Iter:036/0000 Train Loss:0.708171 
+Epoch/Iter:036/0000 Test Loss:0.668664 acc:0.660051 data:val 
+step: 037/600 6% [Remain: 0h/12m/59s | 1.38s/step]
+
+Epoch/Iter:037/0000 Train Loss:0.614789 
+Epoch/Iter:037/0000 Test Loss:1.102314 acc:0.511824 data:val 
+step: 038/600 6% [Remain: 0h/12m/56s | 1.38s/step]
+
+Epoch/Iter:038/0000 Train Loss:0.878473 
+Epoch/Iter:038/0000 Test Loss:0.652117 acc:0.683699 data:val 
+step: 039/600 6% [Remain: 0h/12m/55s | 1.38s/step]
+
+Epoch/Iter:039/0000 Train Loss:0.475427 
+Epoch/Iter:039/0000 Test Loss:0.721623 acc:0.644003 data:val 
+step: 040/600 7% [Remain: 0h/12m/54s | 1.38s/step]
+
+Epoch/Iter:040/0000 Train Loss:0.655897 
+Epoch/Iter:040/0000 Test Loss:1.082800 acc:0.566301 data:val 
+step: 041/600 7% [Remain: 0h/12m/50s | 1.38s/step]
+
+Epoch/Iter:041/0000 Train Loss:0.684725 
+Epoch/Iter:041/0000 Test Loss:0.678733 acc:0.695101 data:val 
+step: 042/600 7% [Remain: 0h/12m/50s | 1.38s/step]
+
+Epoch/Iter:042/0000 Train Loss:0.439941 
+Epoch/Iter:042/0000 Test Loss:0.779900 acc:0.630912 data:val 
+step: 043/600 7% [Remain: 0h/12m/50s | 1.38s/step]
+
+Epoch/Iter:043/0000 Train Loss:0.684381 
+Epoch/Iter:043/0000 Test Loss:0.710152 acc:0.683699 data:val 
+step: 044/600 7% [Remain: 0h/12m/48s | 1.38s/step]
+
+Epoch/Iter:044/0000 Train Loss:0.520502 
+Epoch/Iter:044/0000 Test Loss:0.740308 acc:0.690878 data:val 
+step: 045/600 8% [Remain: 0h/12m/45s | 1.38s/step]
+
+Epoch/Iter:045/0000 Train Loss:0.354162 
+Epoch/Iter:045/0000 Test Loss:0.671381 acc:0.696368 data:val 
+step: 046/600 8% [Remain: 0h/12m/42s | 1.38s/step]
+
+Epoch/Iter:046/0000 Train Loss:0.519469 
+Epoch/Iter:046/0000 Test Loss:1.959816 acc:0.529139 data:val 
+step: 047/600 8% [Remain: 0h/12m/41s | 1.38s/step]
+
+Epoch/Iter:047/0000 Train Loss:1.824381 
+Epoch/Iter:047/0000 Test Loss:0.803835 acc:0.661318 data:val 
+step: 048/600 8% [Remain: 0h/12m/38s | 1.37s/step]
+
+Epoch/Iter:048/0000 Train Loss:0.514485 
+Epoch/Iter:048/0000 Test Loss:0.730835 acc:0.652872 data:val 
+step: 049/600 8% [Remain: 0h/12m/36s | 1.37s/step]
+
+Epoch/Iter:049/0000 Train Loss:0.543723 
+Epoch/Iter:049/0000 Test Loss:0.791619 acc:0.675253 data:val 
+step: 050/600 8% [Remain: 0h/12m/34s | 1.37s/step]
+
+Epoch/Iter:050/0000 Train Loss:0.363779 
+Epoch/Iter:050/0000 Test Loss:0.750409 acc:0.732264 data:val 
+step: 051/600 8% [Remain: 0h/12m/33s | 1.37s/step]
+
+Epoch/Iter:051/0000 Train Loss:0.325035 
+Epoch/Iter:051/0000 Test Loss:1.420676 acc:0.556588 data:val 
+step: 052/600 9% [Remain: 0h/12m/33s | 1.37s/step]
+
+Epoch/Iter:052/0000 Train Loss:0.969971 
+Epoch/Iter:052/0000 Test Loss:0.807364 acc:0.668919 data:val 
+step: 053/600 9% [Remain: 0h/12m/29s | 1.37s/step]
+
+Epoch/Iter:053/0000 Train Loss:0.544572 
+Epoch/Iter:053/0000 Test Loss:1.044946 acc:0.603885 data:val 
+step: 054/600 9% [Remain: 0h/12m/28s | 1.37s/step]
+
+Epoch/Iter:054/0000 Train Loss:0.582849 
+Epoch/Iter:054/0000 Test Loss:0.897389 acc:0.679899 data:val 
+step: 055/600 9% [Remain: 0h/12m/27s | 1.37s/step]
+
+Epoch/Iter:055/0000 Train Loss:0.380235 
+Epoch/Iter:055/0000 Test Loss:1.158856 acc:0.671875 data:val 
+step: 056/600 9% [Remain: 0h/12m/25s | 1.37s/step]
+
+Epoch/Iter:056/0000 Train Loss:0.394253 
+Epoch/Iter:056/0000 Test Loss:0.937668 acc:0.691723 data:val 
+step: 057/600 10% [Remain: 0h/12m/24s | 1.37s/step]
+
+Epoch/Iter:057/0000 Train Loss:0.245368 
+Epoch/Iter:057/0000 Test Loss:1.113699 acc:0.639358 data:val 
+step: 058/600 10% [Remain: 0h/12m/22s | 1.37s/step]
+
+Epoch/Iter:058/0000 Train Loss:0.369357 
+Epoch/Iter:058/0000 Test Loss:1.132672 acc:0.630068 data:val 
+step: 059/600 10% [Remain: 0h/12m/21s | 1.37s/step]
+
+Epoch/Iter:059/0000 Train Loss:0.498251 
+Epoch/Iter:059/0000 Test Loss:0.928166 acc:0.674409 data:val 
+step: 060/600 10% [Remain: 0h/12m/19s | 1.37s/step]
+
+Epoch/Iter:060/0000 Train Loss:0.316940 
+Epoch/Iter:060/0000 Test Loss:0.948976 acc:0.686655 data:val 
+step: 061/600 10% [Remain: 0h/12m/18s | 1.37s/step]
+
+Epoch/Iter:061/0000 Train Loss:0.297470 
+Epoch/Iter:061/0000 Test Loss:0.969783 acc:0.695946 data:val 
+step: 062/600 10% [Remain: 0h/12m/16s | 1.37s/step]
+
+Epoch/Iter:062/0000 Train Loss:0.313538 
+Epoch/Iter:062/0000 Test Loss:1.182536 acc:0.645693 data:val 
+step: 063/600 10% [Remain: 0h/12m/15s | 1.37s/step]
+
+Epoch/Iter:063/0000 Train Loss:0.362266 
+Epoch/Iter:063/0000 Test Loss:1.149078 acc:0.631757 data:val 
+step: 064/600 11% [Remain: 0h/12m/13s | 1.37s/step]
+
+Epoch/Iter:064/0000 Train Loss:0.332411 
+Epoch/Iter:064/0000 Test Loss:1.043516 acc:0.701858 data:val 
+step: 065/600 11% [Remain: 0h/12m/12s | 1.37s/step]
+
+Epoch/Iter:065/0000 Train Loss:0.203079 
+Epoch/Iter:065/0000 Test Loss:1.024431 acc:0.714527 data:val 
+step: 066/600 11% [Remain: 0h/12m/ 9s | 1.37s/step]
+
+Epoch/Iter:066/0000 Train Loss:0.310870 
+Epoch/Iter:066/0000 Test Loss:1.143593 acc:0.692145 data:val 
+step: 067/600 11% [Remain: 0h/12m/ 7s | 1.37s/step]
+
+Epoch/Iter:067/0000 Train Loss:0.248658 
+Epoch/Iter:067/0000 Test Loss:2.448459 acc:0.554054 data:val 
+step: 068/600 11% [Remain: 0h/12m/ 6s | 1.37s/step]
+
+Epoch/Iter:068/0000 Train Loss:1.679925 
+Epoch/Iter:068/0000 Test Loss:1.284792 acc:0.603885 data:val 
+step: 069/600 12% [Remain: 0h/12m/ 4s | 1.37s/step]
+
+Epoch/Iter:069/0000 Train Loss:0.477512 
+Epoch/Iter:069/0000 Test Loss:1.081579 acc:0.710304 data:val 
+step: 070/600 12% [Remain: 0h/12m/ 2s | 1.36s/step]
+
+Epoch/Iter:070/0000 Train Loss:0.195639 
+Epoch/Iter:070/0000 Test Loss:1.056677 acc:0.703125 data:val 
+step: 071/600 12% [Remain: 0h/12m/ 1s | 1.36s/step]
+
+Epoch/Iter:071/0000 Train Loss:0.294316 
+Epoch/Iter:071/0000 Test Loss:1.136320 acc:0.714105 data:val 
+step: 072/600 12% [Remain: 0h/11m/59s | 1.36s/step]
+
+Epoch/Iter:072/0000 Train Loss:0.279492 
+Epoch/Iter:072/0000 Test Loss:1.199134 acc:0.716216 data:val 
+step: 073/600 12% [Remain: 0h/11m/58s | 1.36s/step]
+
+Epoch/Iter:073/0000 Train Loss:0.527344 
+Epoch/Iter:073/0000 Test Loss:1.732480 acc:0.583615 data:val 
+step: 074/600 12% [Remain: 0h/11m/56s | 1.36s/step]
+
+Epoch/Iter:074/0000 Train Loss:0.985438 
+Epoch/Iter:074/0000 Test Loss:1.209630 acc:0.719595 data:val 
+step: 075/600 12% [Remain: 0h/11m/54s | 1.36s/step]
+
+Epoch/Iter:075/0000 Train Loss:0.300618 
+Epoch/Iter:075/0000 Test Loss:1.162785 acc:0.729307 data:val 
+step: 076/600 13% [Remain: 0h/11m/52s | 1.36s/step]
+
+Epoch/Iter:076/0000 Train Loss:0.286421 
+Epoch/Iter:076/0000 Test Loss:1.186595 acc:0.698480 data:val 
+step: 077/600 13% [Remain: 0h/11m/51s | 1.36s/step]
+
+Epoch/Iter:077/0000 Train Loss:0.409786 
+Epoch/Iter:077/0000 Test Loss:1.594074 acc:0.617821 data:val 
+step: 078/600 13% [Remain: 0h/11m/49s | 1.36s/step]
+
+Epoch/Iter:078/0000 Train Loss:0.577057 
+Epoch/Iter:078/0000 Test Loss:1.326552 acc:0.626689 data:val 
+step: 079/600 13% [Remain: 0h/11m/47s | 1.36s/step]
+
+Epoch/Iter:079/0000 Train Loss:0.334638 
+Epoch/Iter:079/0000 Test Loss:1.401252 acc:0.657517 data:val 
+step: 080/600 13% [Remain: 0h/11m/46s | 1.36s/step]
+
+Epoch/Iter:080/0000 Train Loss:0.340714 
+Epoch/Iter:080/0000 Test Loss:1.129493 acc:0.723395 data:val 
+step: 081/600 14% [Remain: 0h/11m/45s | 1.36s/step]
+
+Epoch/Iter:081/0000 Train Loss:0.328689 
+Epoch/Iter:081/0000 Test Loss:1.188153 acc:0.709459 data:val 
+step: 082/600 14% [Remain: 0h/11m/44s | 1.36s/step]
+
+Epoch/Iter:082/0000 Train Loss:0.252656 
+Epoch/Iter:082/0000 Test Loss:1.303181 acc:0.698902 data:val 
+step: 083/600 14% [Remain: 0h/11m/43s | 1.36s/step]
+
+Epoch/Iter:083/0000 Train Loss:0.272379 
+Epoch/Iter:083/0000 Test Loss:1.475815 acc:0.652872 data:val 
+step: 084/600 14% [Remain: 0h/11m/42s | 1.36s/step]
+
+Epoch/Iter:084/0000 Train Loss:0.238014 
+Epoch/Iter:084/0000 Test Loss:1.024794 acc:0.711993 data:val 
+step: 085/600 14% [Remain: 0h/11m/40s | 1.36s/step]
+
+Epoch/Iter:085/0000 Train Loss:0.317540 
+Epoch/Iter:085/0000 Test Loss:1.073460 acc:0.728463 data:val 
+step: 086/600 14% [Remain: 0h/11m/38s | 1.36s/step]
+
+Epoch/Iter:086/0000 Train Loss:0.197125 
+Epoch/Iter:086/0000 Test Loss:1.118281 acc:0.730997 data:val 
+step: 087/600 14% [Remain: 0h/11m/36s | 1.36s/step]
+
+Epoch/Iter:087/0000 Train Loss:0.286325 
+Epoch/Iter:087/0000 Test Loss:1.202619 acc:0.734797 data:val 
+step: 088/600 15% [Remain: 0h/11m/35s | 1.36s/step]
+
+Epoch/Iter:088/0000 Train Loss:0.333654 
+Epoch/Iter:088/0000 Test Loss:1.162922 acc:0.742399 data:val 
+step: 089/600 15% [Remain: 0h/11m/33s | 1.36s/step]
+
+Epoch/Iter:089/0000 Train Loss:0.233300 
+Epoch/Iter:089/0000 Test Loss:1.112175 acc:0.738598 data:val 
+step: 090/600 15% [Remain: 0h/11m/32s | 1.36s/step]
+
+Epoch/Iter:090/0000 Train Loss:0.249316 
+Epoch/Iter:090/0000 Test Loss:1.567755 acc:0.620777 data:val 
+step: 091/600 15% [Remain: 0h/11m/30s | 1.36s/step]
+
+Epoch/Iter:091/0000 Train Loss:0.669214 
+Epoch/Iter:091/0000 Test Loss:1.375804 acc:0.649916 data:val 
+step: 092/600 15% [Remain: 0h/11m/29s | 1.36s/step]
+
+Epoch/Iter:092/0000 Train Loss:0.404558 
+Epoch/Iter:092/0000 Test Loss:1.139326 acc:0.760135 data:val 
+step: 093/600 16% [Remain: 0h/11m/28s | 1.36s/step]
+
+Epoch/Iter:093/0000 Train Loss:0.149064 
+Epoch/Iter:093/0000 Test Loss:1.090221 acc:0.781250 data:val 
+step: 094/600 16% [Remain: 0h/11m/27s | 1.36s/step]
+
+Epoch/Iter:094/0000 Train Loss:0.239281 
+Epoch/Iter:094/0000 Test Loss:1.330715 acc:0.702703 data:val 
+step: 095/600 16% [Remain: 0h/11m/26s | 1.36s/step]
+
+Epoch/Iter:095/0000 Train Loss:0.311368 
+Epoch/Iter:095/0000 Test Loss:1.270531 acc:0.682010 data:val 
+step: 096/600 16% [Remain: 0h/11m/25s | 1.36s/step]
+
+Epoch/Iter:096/0000 Train Loss:0.239420 
+Epoch/Iter:096/0000 Test Loss:1.119981 acc:0.727618 data:val 
+step: 097/600 16% [Remain: 0h/11m/23s | 1.36s/step]
+
+Epoch/Iter:097/0000 Train Loss:0.195123 
+Epoch/Iter:097/0000 Test Loss:1.274374 acc:0.737331 data:val 
+step: 098/600 16% [Remain: 0h/11m/22s | 1.36s/step]
+
+Epoch/Iter:098/0000 Train Loss:0.262293 
+Epoch/Iter:098/0000 Test Loss:1.088508 acc:0.774916 data:val 
+step: 099/600 16% [Remain: 0h/11m/20s | 1.36s/step]
+
+Epoch/Iter:099/0000 Train Loss:0.237529 
+Epoch/Iter:099/0000 Test Loss:1.266447 acc:0.687500 data:val 
+step: 100/600 17% [Remain: 0h/11m/19s | 1.36s/step]
+
+Epoch/Iter:100/0000 Train Loss:0.237916 
+Epoch/Iter:100/0000 Test Loss:1.231424 acc:0.724240 data:val 
+step: 101/600 17% [Remain: 0h/11m/18s | 1.36s/step]
+
+Epoch/Iter:101/0000 Train Loss:0.300177 
+Epoch/Iter:101/0000 Test Loss:1.523365 acc:0.647804 data:val 
+step: 102/600 17% [Remain: 0h/11m/17s | 1.36s/step]
+
+Epoch/Iter:102/0000 Train Loss:0.244042 
+Epoch/Iter:102/0000 Test Loss:1.292039 acc:0.728463 data:val 
+step: 103/600 17% [Remain: 0h/11m/15s | 1.36s/step]
+
+Epoch/Iter:103/0000 Train Loss:0.410874 
+Epoch/Iter:103/0000 Test Loss:3.322802 acc:0.597973 data:val 
+step: 104/600 17% [Remain: 0h/11m/14s | 1.36s/step]
+
+Epoch/Iter:104/0000 Train Loss:1.481547 
+Epoch/Iter:104/0000 Test Loss:1.399994 acc:0.670186 data:val 
+step: 105/600 18% [Remain: 0h/11m/13s | 1.36s/step]
+
+Epoch/Iter:105/0000 Train Loss:0.425229 
+Epoch/Iter:105/0000 Test Loss:0.980812 acc:0.771115 data:val 
+step: 106/600 18% [Remain: 0h/11m/12s | 1.36s/step]
+
+Epoch/Iter:106/0000 Train Loss:0.208610 
+Epoch/Iter:106/0000 Test Loss:1.139653 acc:0.753801 data:val 
+step: 107/600 18% [Remain: 0h/11m/10s | 1.36s/step]
+
+Epoch/Iter:107/0000 Train Loss:0.192705 
+Epoch/Iter:107/0000 Test Loss:1.282953 acc:0.720017 data:val 
+step: 108/600 18% [Remain: 0h/11m/ 8s | 1.36s/step]
+
+Epoch/Iter:108/0000 Train Loss:0.196203 
+Epoch/Iter:108/0000 Test Loss:1.308588 acc:0.753801 data:val 
+step: 109/600 18% [Remain: 0h/11m/ 6s | 1.36s/step]
+
+Epoch/Iter:109/0000 Train Loss:0.203989 
+Epoch/Iter:109/0000 Test Loss:1.150206 acc:0.770270 data:val 
+step: 110/600 18% [Remain: 0h/11m/ 5s | 1.36s/step]
+
+Epoch/Iter:110/0000 Train Loss:0.176093 
+Epoch/Iter:110/0000 Test Loss:1.241484 acc:0.775338 data:val 
+step: 111/600 18% [Remain: 0h/11m/ 3s | 1.36s/step]
+
+Epoch/Iter:111/0000 Train Loss:0.139320 
+Epoch/Iter:111/0000 Test Loss:1.104537 acc:0.724240 data:val 
+step: 112/600 19% [Remain: 0h/11m/ 2s | 1.36s/step]
+
+Epoch/Iter:112/0000 Train Loss:0.164366 
+Epoch/Iter:112/0000 Test Loss:1.441480 acc:0.655828 data:val 
+step: 113/600 19% [Remain: 0h/11m/ 0s | 1.36s/step]
+
+Epoch/Iter:113/0000 Train Loss:0.430649 
+Epoch/Iter:113/0000 Test Loss:1.112288 acc:0.716639 data:val 
+step: 114/600 19% [Remain: 0h/10m/59s | 1.36s/step]
+
+Epoch/Iter:114/0000 Train Loss:0.184846 
+Epoch/Iter:114/0000 Test Loss:1.388951 acc:0.713260 data:val 
+step: 115/600 19% [Remain: 0h/10m/58s | 1.36s/step]
+
+Epoch/Iter:115/0000 Train Loss:0.213088 
+Epoch/Iter:115/0000 Test Loss:1.136606 acc:0.770693 data:val 
+step: 116/600 19% [Remain: 0h/10m/56s | 1.36s/step]
+
+Epoch/Iter:116/0000 Train Loss:0.201331 
+Epoch/Iter:116/0000 Test Loss:1.166972 acc:0.753378 data:val 
+step: 117/600 20% [Remain: 0h/10m/55s | 1.36s/step]
+
+Epoch/Iter:117/0000 Train Loss:0.323086 
+Epoch/Iter:117/0000 Test Loss:3.051105 acc:0.510135 data:val 
+step: 118/600 20% [Remain: 0h/10m/54s | 1.36s/step]
+
+Epoch/Iter:118/0000 Train Loss:0.966668 
+Epoch/Iter:118/0000 Test Loss:0.932789 acc:0.788007 data:val 
+step: 119/600 20% [Remain: 0h/10m/53s | 1.36s/step]
+
+Epoch/Iter:119/0000 Train Loss:0.149517 
+Epoch/Iter:119/0000 Test Loss:1.052068 acc:0.735220 data:val 
+step: 120/600 20% [Remain: 0h/10m/52s | 1.36s/step]
+
+Epoch/Iter:120/0000 Train Loss:0.248642 
+Epoch/Iter:120/0000 Test Loss:1.014146 acc:0.778294 data:val 
+step: 121/600 20% [Remain: 0h/10m/50s | 1.36s/step]
+
+Epoch/Iter:121/0000 Train Loss:0.186961 
+Epoch/Iter:121/0000 Test Loss:1.073433 acc:0.782095 data:val 
+step: 122/600 20% [Remain: 0h/10m/49s | 1.36s/step]
+
+Epoch/Iter:122/0000 Train Loss:0.244329 
+Epoch/Iter:122/0000 Test Loss:1.037470 acc:0.802365 data:val 
+step: 123/600 20% [Remain: 0h/10m/48s | 1.36s/step]
+
+Epoch/Iter:123/0000 Train Loss:0.192813 
+Epoch/Iter:123/0000 Test Loss:2.856329 acc:0.546875 data:val 
+step: 124/600 21% [Remain: 0h/10m/47s | 1.36s/step]
+
+Epoch/Iter:124/0000 Train Loss:0.933701 
+Epoch/Iter:124/0000 Test Loss:1.212994 acc:0.707348 data:val 
+step: 125/600 21% [Remain: 0h/10m/45s | 1.36s/step]
+
+Epoch/Iter:125/0000 Train Loss:0.338512 
+Epoch/Iter:125/0000 Test Loss:1.521746 acc:0.638514 data:val 
+step: 126/600 21% [Remain: 0h/10m/44s | 1.36s/step]
+
+Epoch/Iter:126/0000 Train Loss:0.341426 
+Epoch/Iter:126/0000 Test Loss:1.087097 acc:0.785473 data:val 
+step: 127/600 21% [Remain: 0h/10m/43s | 1.36s/step]
+
+Epoch/Iter:127/0000 Train Loss:0.238633 
+Epoch/Iter:127/0000 Test Loss:1.737170 acc:0.600929 data:val 
+step: 128/600 21% [Remain: 0h/10m/41s | 1.36s/step]
+
+Epoch/Iter:128/0000 Train Loss:0.821134 
+Epoch/Iter:128/0000 Test Loss:0.820845 acc:0.782939 data:val 
+step: 129/600 22% [Remain: 0h/10m/40s | 1.36s/step]
+
+Epoch/Iter:129/0000 Train Loss:0.197207 
+Epoch/Iter:129/0000 Test Loss:1.443699 acc:0.671453 data:val 
+step: 130/600 22% [Remain: 0h/10m/38s | 1.36s/step]
+
+Epoch/Iter:130/0000 Train Loss:0.471096 
+Epoch/Iter:130/0000 Test Loss:1.047191 acc:0.751267 data:val 
+step: 131/600 22% [Remain: 0h/10m/36s | 1.36s/step]
+
+Epoch/Iter:131/0000 Train Loss:0.151176 
+Epoch/Iter:131/0000 Test Loss:1.841743 acc:0.629645 data:val 
+step: 132/600 22% [Remain: 0h/10m/35s | 1.36s/step]
+
+Epoch/Iter:132/0000 Train Loss:0.499570 
+Epoch/Iter:132/0000 Test Loss:1.101217 acc:0.782095 data:val 
+step: 133/600 22% [Remain: 0h/10m/33s | 1.36s/step]
+
+Epoch/Iter:133/0000 Train Loss:0.206850 
+Epoch/Iter:133/0000 Test Loss:1.234998 acc:0.736909 data:val 
+step: 134/600 22% [Remain: 0h/10m/32s | 1.36s/step]
+
+Epoch/Iter:134/0000 Train Loss:0.181627 
+Epoch/Iter:134/0000 Test Loss:1.199181 acc:0.709882 data:val 
+step: 135/600 22% [Remain: 0h/10m/30s | 1.36s/step]
+
+Epoch/Iter:135/0000 Train Loss:0.284121 
+Epoch/Iter:135/0000 Test Loss:1.226660 acc:0.734375 data:val 
+step: 136/600 23% [Remain: 0h/10m/29s | 1.36s/step]
+
+Epoch/Iter:136/0000 Train Loss:0.286756 
+Epoch/Iter:136/0000 Test Loss:1.387438 acc:0.749578 data:val 
+step: 137/600 23% [Remain: 0h/10m/28s | 1.36s/step]
+
+Epoch/Iter:137/0000 Train Loss:0.214899 
+Epoch/Iter:137/0000 Test Loss:1.006315 acc:0.788429 data:val 
+step: 138/600 23% [Remain: 0h/10m/26s | 1.36s/step]
+
+Epoch/Iter:138/0000 Train Loss:0.179102 
+Epoch/Iter:138/0000 Test Loss:1.156073 acc:0.717483 data:val 
+step: 139/600 23% [Remain: 0h/10m/25s | 1.36s/step]
+
+Epoch/Iter:139/0000 Train Loss:0.245225 
+Epoch/Iter:139/0000 Test Loss:1.538964 acc:0.618666 data:val 
+step: 140/600 23% [Remain: 0h/10m/24s | 1.36s/step]
+
+Epoch/Iter:140/0000 Train Loss:0.322603 
+Epoch/Iter:140/0000 Test Loss:1.352579 acc:0.705236 data:val 
+step: 141/600 24% [Remain: 0h/10m/23s | 1.36s/step]
+
+Epoch/Iter:141/0000 Train Loss:0.247484 
+Epoch/Iter:141/0000 Test Loss:1.013815 acc:0.779983 data:val 
+step: 142/600 24% [Remain: 0h/10m/21s | 1.36s/step]
+
+Epoch/Iter:142/0000 Train Loss:0.128980 
+Epoch/Iter:142/0000 Test Loss:1.046074 acc:0.779139 data:val 
+step: 143/600 24% [Remain: 0h/10m/20s | 1.36s/step]
+
+Epoch/Iter:143/0000 Train Loss:0.211653 
+Epoch/Iter:143/0000 Test Loss:0.805284 acc:0.769426 data:val 
+step: 144/600 24% [Remain: 0h/10m/18s | 1.36s/step]
+
+Epoch/Iter:144/0000 Train Loss:0.230750 
+Epoch/Iter:144/0000 Test Loss:1.181983 acc:0.699747 data:val 
+step: 145/600 24% [Remain: 0h/10m/16s | 1.36s/step]
+
+Epoch/Iter:145/0000 Train Loss:0.343308 
+Epoch/Iter:145/0000 Test Loss:1.225993 acc:0.708615 data:val 
+step: 146/600 24% [Remain: 0h/10m/15s | 1.36s/step]
+
+Epoch/Iter:146/0000 Train Loss:0.174098 
+Epoch/Iter:146/0000 Test Loss:0.991458 acc:0.795608 data:val 
+step: 147/600 24% [Remain: 0h/10m/14s | 1.36s/step]
+
+Epoch/Iter:147/0000 Train Loss:0.227115 
+Epoch/Iter:147/0000 Test Loss:1.521601 acc:0.635135 data:val 
+step: 148/600 25% [Remain: 0h/10m/13s | 1.36s/step]
+
+Epoch/Iter:148/0000 Train Loss:0.402237 
+Epoch/Iter:148/0000 Test Loss:1.115120 acc:0.703125 data:val 
+step: 149/600 25% [Remain: 0h/10m/11s | 1.36s/step]
+
+Epoch/Iter:149/0000 Train Loss:0.234336 
+Epoch/Iter:149/0000 Test Loss:1.215748 acc:0.692990 data:val 
+step: 150/600 25% [Remain: 0h/10m/10s | 1.36s/step]
+
+Epoch/Iter:150/0000 Train Loss:0.455603 
+Epoch/Iter:150/0000 Test Loss:1.007412 acc:0.748311 data:val 
+step: 151/600 25% [Remain: 0h/10m/ 9s | 1.36s/step]
+
+Epoch/Iter:151/0000 Train Loss:0.301132 
+Epoch/Iter:151/0000 Test Loss:1.015846 acc:0.792230 data:val 
+step: 152/600 25% [Remain: 0h/10m/ 7s | 1.36s/step]
+
+Epoch/Iter:152/0000 Train Loss:0.185282 
+Epoch/Iter:152/0000 Test Loss:0.912596 acc:0.804899 data:val 
+step: 153/600 26% [Remain: 0h/10m/ 6s | 1.36s/step]
+
+Epoch/Iter:153/0000 Train Loss:0.286930 
+Epoch/Iter:153/0000 Test Loss:0.874683 acc:0.818412 data:val 
+step: 154/600 26% [Remain: 0h/10m/ 5s | 1.36s/step]
+
+Epoch/Iter:154/0000 Train Loss:0.147677 
+Epoch/Iter:154/0000 Test Loss:0.879790 acc:0.788429 data:val 
+step: 155/600 26% [Remain: 0h/10m/ 4s | 1.36s/step]
+
+Epoch/Iter:155/0000 Train Loss:0.149498 
+Epoch/Iter:155/0000 Test Loss:0.948953 acc:0.797720 data:val 
+step: 156/600 26% [Remain: 0h/10m/ 3s | 1.36s/step]
+
+Epoch/Iter:156/0000 Train Loss:0.228217 
+Epoch/Iter:156/0000 Test Loss:2.318460 acc:0.635135 data:val 
+step: 157/600 26% [Remain: 0h/10m/ 2s | 1.36s/step]
+
+Epoch/Iter:157/0000 Train Loss:0.636931 
+Epoch/Iter:157/0000 Test Loss:1.073633 acc:0.786318 data:val 
+step: 158/600 26% [Remain: 0h/10m/ 0s | 1.36s/step]
+
+Epoch/Iter:158/0000 Train Loss:0.179200 
+Epoch/Iter:158/0000 Test Loss:0.942718 acc:0.773226 data:val 
+step: 159/600 26% [Remain: 0h/ 9m/59s | 1.36s/step]
+
+Epoch/Iter:159/0000 Train Loss:0.244335 
+Epoch/Iter:159/0000 Test Loss:1.018284 acc:0.690456 data:val 
+step: 160/600 27% [Remain: 0h/ 9m/57s | 1.36s/step]
+
+Epoch/Iter:160/0000 Train Loss:0.445287 
+Epoch/Iter:160/0000 Test Loss:1.237012 acc:0.693412 data:val 
+step: 161/600 27% [Remain: 0h/ 9m/56s | 1.36s/step]
+
+Epoch/Iter:161/0000 Train Loss:0.428684 
+Epoch/Iter:161/0000 Test Loss:1.019964 acc:0.780405 data:val 
+step: 162/600 27% [Remain: 0h/ 9m/55s | 1.36s/step]
+
+Epoch/Iter:162/0000 Train Loss:0.187803 
+Epoch/Iter:162/0000 Test Loss:1.079634 acc:0.815034 data:val 
+step: 163/600 27% [Remain: 0h/ 9m/54s | 1.36s/step]
+
+Epoch/Iter:163/0000 Train Loss:0.197167 
+Epoch/Iter:163/0000 Test Loss:1.329516 acc:0.755068 data:val 
+step: 164/600 27% [Remain: 0h/ 9m/52s | 1.36s/step]
+
+Epoch/Iter:164/0000 Train Loss:0.235799 
+Epoch/Iter:164/0000 Test Loss:1.496186 acc:0.641892 data:val 
+step: 165/600 28% [Remain: 0h/ 9m/51s | 1.36s/step]
+
+Epoch/Iter:165/0000 Train Loss:0.548006 
+Epoch/Iter:165/0000 Test Loss:1.192562 acc:0.795608 data:val 
+step: 166/600 28% [Remain: 0h/ 9m/49s | 1.36s/step]
+
+Epoch/Iter:166/0000 Train Loss:0.197049 
+Epoch/Iter:166/0000 Test Loss:0.976037 acc:0.815456 data:val 
+step: 167/600 28% [Remain: 0h/ 9m/48s | 1.36s/step]
+
+Epoch/Iter:167/0000 Train Loss:0.197578 
+Epoch/Iter:167/0000 Test Loss:1.026863 acc:0.817990 data:val 
+step: 168/600 28% [Remain: 0h/ 9m/47s | 1.36s/step]
+
+Epoch/Iter:168/0000 Train Loss:0.178486 
+Epoch/Iter:168/0000 Test Loss:0.917790 acc:0.838682 data:val 
+step: 169/600 28% [Remain: 0h/ 9m/45s | 1.36s/step]
+
+Epoch/Iter:169/0000 Train Loss:0.147731 
+Epoch/Iter:169/0000 Test Loss:1.096180 acc:0.791385 data:val 
+step: 170/600 28% [Remain: 0h/ 9m/44s | 1.36s/step]
+
+Epoch/Iter:170/0000 Train Loss:0.124856 
+Epoch/Iter:170/0000 Test Loss:2.220870 acc:0.574324 data:val 
+step: 171/600 28% [Remain: 0h/ 9m/42s | 1.36s/step]
+
+Epoch/Iter:171/0000 Train Loss:0.941521 
+Epoch/Iter:171/0000 Test Loss:1.032140 acc:0.817145 data:val 
+step: 172/600 29% [Remain: 0h/ 9m/41s | 1.36s/step]
+
+Epoch/Iter:172/0000 Train Loss:0.097523 
+Epoch/Iter:172/0000 Test Loss:1.500066 acc:0.669764 data:val 
+step: 173/600 29% [Remain: 0h/ 9m/39s | 1.36s/step]
+
+Epoch/Iter:173/0000 Train Loss:0.409741 
+Epoch/Iter:173/0000 Test Loss:1.108854 acc:0.824324 data:val 
+step: 174/600 29% [Remain: 0h/ 9m/38s | 1.36s/step]
+
+Epoch/Iter:174/0000 Train Loss:0.149267 
+Epoch/Iter:174/0000 Test Loss:0.881002 acc:0.817990 data:val 
+step: 175/600 29% [Remain: 0h/ 9m/37s | 1.36s/step]
+
+Epoch/Iter:175/0000 Train Loss:0.247110 
+Epoch/Iter:175/0000 Test Loss:1.458455 acc:0.682855 data:val 
+step: 176/600 29% [Remain: 0h/ 9m/35s | 1.36s/step]
+
+Epoch/Iter:176/0000 Train Loss:0.320416 
+Epoch/Iter:176/0000 Test Loss:1.095476 acc:0.794764 data:val 
+step: 177/600 30% [Remain: 0h/ 9m/34s | 1.36s/step]
+
+Epoch/Iter:177/0000 Train Loss:0.311482 
+Epoch/Iter:177/0000 Test Loss:1.079161 acc:0.807432 data:val 
+step: 178/600 30% [Remain: 0h/ 9m/33s | 1.36s/step]
+
+Epoch/Iter:178/0000 Train Loss:0.117073 
+Epoch/Iter:178/0000 Test Loss:1.739639 acc:0.671875 data:val 
+step: 179/600 30% [Remain: 0h/ 9m/31s | 1.36s/step]
+
+Epoch/Iter:179/0000 Train Loss:0.511796 
+Epoch/Iter:179/0000 Test Loss:1.395786 acc:0.715794 data:val 
+step: 180/600 30% [Remain: 0h/ 9m/30s | 1.36s/step]
+
+Epoch/Iter:180/0000 Train Loss:0.521195 
+Epoch/Iter:180/0000 Test Loss:1.189679 acc:0.760557 data:val 
+step: 181/600 30% [Remain: 0h/ 9m/28s | 1.36s/step]
+
+Epoch/Iter:181/0000 Train Loss:0.287581 
+Epoch/Iter:181/0000 Test Loss:1.241791 acc:0.700591 data:val 
+step: 182/600 30% [Remain: 0h/ 9m/27s | 1.36s/step]
+
+Epoch/Iter:182/0000 Train Loss:0.356533 
+Epoch/Iter:182/0000 Test Loss:1.267846 acc:0.721284 data:val 
+step: 183/600 30% [Remain: 0h/ 9m/25s | 1.36s/step]
+
+Epoch/Iter:183/0000 Train Loss:0.258988 
+Epoch/Iter:183/0000 Test Loss:1.151960 acc:0.779139 data:val 
+step: 184/600 31% [Remain: 0h/ 9m/24s | 1.36s/step]
+
+Epoch/Iter:184/0000 Train Loss:0.456535 
+Epoch/Iter:184/0000 Test Loss:1.116511 acc:0.794764 data:val 
+step: 185/600 31% [Remain: 0h/ 9m/22s | 1.36s/step]
+
+Epoch/Iter:185/0000 Train Loss:0.208919 
+Epoch/Iter:185/0000 Test Loss:1.074991 acc:0.822635 data:val 
+step: 186/600 31% [Remain: 0h/ 9m/21s | 1.36s/step]
+
+Epoch/Iter:186/0000 Train Loss:0.070938 
+Epoch/Iter:186/0000 Test Loss:1.272320 acc:0.754223 data:val 
+step: 187/600 31% [Remain: 0h/ 9m/20s | 1.36s/step]
+
+Epoch/Iter:187/0000 Train Loss:0.270808 
+Epoch/Iter:187/0000 Test Loss:1.325696 acc:0.701014 data:val 
+step: 188/600 31% [Remain: 0h/ 9m/18s | 1.36s/step]
+
+Epoch/Iter:188/0000 Train Loss:0.285560 
+Epoch/Iter:188/0000 Test Loss:1.822368 acc:0.641047 data:val 
+step: 189/600 32% [Remain: 0h/ 9m/17s | 1.36s/step]
+
+Epoch/Iter:189/0000 Train Loss:0.469712 
+Epoch/Iter:189/0000 Test Loss:1.313451 acc:0.810389 data:val 
+step: 190/600 32% [Remain: 0h/ 9m/16s | 1.36s/step]
+
+Epoch/Iter:190/0000 Train Loss:0.120824 
+Epoch/Iter:190/0000 Test Loss:1.196635 acc:0.839527 data:val 
+step: 191/600 32% [Remain: 0h/ 9m/14s | 1.36s/step]
+
+Epoch/Iter:191/0000 Train Loss:0.141108 
+Epoch/Iter:191/0000 Test Loss:2.731586 acc:0.559122 data:val 
+step: 192/600 32% [Remain: 0h/ 9m/13s | 1.36s/step]
+
+Epoch/Iter:192/0000 Train Loss:0.816034 
+Epoch/Iter:192/0000 Test Loss:2.556326 acc:0.574324 data:val 
+step: 193/600 32% [Remain: 0h/ 9m/11s | 1.36s/step]
+
+Epoch/Iter:193/0000 Train Loss:0.579230 
+Epoch/Iter:193/0000 Test Loss:1.353215 acc:0.779983 data:val 
+step: 194/600 32% [Remain: 0h/ 9m/10s | 1.36s/step]
+
+Epoch/Iter:194/0000 Train Loss:0.187164 
+Epoch/Iter:194/0000 Test Loss:1.185480 acc:0.810811 data:val 
+step: 195/600 32% [Remain: 0h/ 9m/ 9s | 1.36s/step]
+
+Epoch/Iter:195/0000 Train Loss:0.140714 
+Epoch/Iter:195/0000 Test Loss:1.262188 acc:0.792230 data:val 
+step: 196/600 33% [Remain: 0h/ 9m/ 7s | 1.36s/step]
+
+Epoch/Iter:196/0000 Train Loss:0.190736 
+Epoch/Iter:196/0000 Test Loss:2.148643 acc:0.614443 data:val 
+step: 197/600 33% [Remain: 0h/ 9m/ 6s | 1.36s/step]
+
+Epoch/Iter:197/0000 Train Loss:1.032216 
+Epoch/Iter:197/0000 Test Loss:1.450753 acc:0.679054 data:val 
+step: 198/600 33% [Remain: 0h/ 9m/ 4s | 1.36s/step]
+
+Epoch/Iter:198/0000 Train Loss:0.415699 
+Epoch/Iter:198/0000 Test Loss:1.114706 acc:0.826014 data:val 
+step: 199/600 33% [Remain: 0h/ 9m/ 3s | 1.36s/step]
+
+Epoch/Iter:199/0000 Train Loss:0.164073 
+Epoch/Iter:199/0000 Test Loss:1.018797 acc:0.854307 data:val 
+step: 200/600 33% [Remain: 0h/ 9m/ 2s | 1.36s/step]
+
+Epoch/Iter:200/0000 Train Loss:0.067353 
+Epoch/Iter:200/0000 Test Loss:1.102647 acc:0.842061 data:val 
+step: 201/600 34% [Remain: 0h/ 9m/ 1s | 1.36s/step]
+
+Epoch/Iter:201/0000 Train Loss:0.062994 
+Epoch/Iter:201/0000 Test Loss:1.440254 acc:0.688767 data:val 
+step: 202/600 34% [Remain: 0h/ 8m/59s | 1.36s/step]
+
+Epoch/Iter:202/0000 Train Loss:0.336061 
+Epoch/Iter:202/0000 Test Loss:1.290968 acc:0.761402 data:val 
+step: 203/600 34% [Remain: 0h/ 8m/58s | 1.36s/step]
+
+Epoch/Iter:203/0000 Train Loss:0.219676 
+Epoch/Iter:203/0000 Test Loss:1.108819 acc:0.851351 data:val 
+step: 204/600 34% [Remain: 0h/ 8m/56s | 1.36s/step]
+
+Epoch/Iter:204/0000 Train Loss:0.202607 
+Epoch/Iter:204/0000 Test Loss:1.011548 acc:0.832770 data:val 
+step: 205/600 34% [Remain: 0h/ 8m/55s | 1.35s/step]
+
+Epoch/Iter:205/0000 Train Loss:0.125400 
+Epoch/Iter:205/0000 Test Loss:1.074390 acc:0.793919 data:val 
+step: 206/600 34% [Remain: 0h/ 8m/53s | 1.36s/step]
+
+Epoch/Iter:206/0000 Train Loss:0.145174 
+Epoch/Iter:206/0000 Test Loss:1.183561 acc:0.786740 data:val 
+step: 207/600 34% [Remain: 0h/ 8m/52s | 1.36s/step]
+
+Epoch/Iter:207/0000 Train Loss:0.168262 
+Epoch/Iter:207/0000 Test Loss:1.297954 acc:0.771959 data:val 
+step: 208/600 35% [Remain: 0h/ 8m/51s | 1.36s/step]
+
+Epoch/Iter:208/0000 Train Loss:0.146336 
+Epoch/Iter:208/0000 Test Loss:1.193683 acc:0.807432 data:val 
+step: 209/600 35% [Remain: 0h/ 8m/49s | 1.36s/step]
+
+Epoch/Iter:209/0000 Train Loss:0.152878 
+Epoch/Iter:209/0000 Test Loss:1.397275 acc:0.784206 data:val 
+step: 210/600 35% [Remain: 0h/ 8m/48s | 1.35s/step]
+
+Epoch/Iter:210/0000 Train Loss:0.215190 
+Epoch/Iter:210/0000 Test Loss:1.288966 acc:0.787584 data:val 
+step: 211/600 35% [Remain: 0h/ 8m/46s | 1.35s/step]
+
+Epoch/Iter:211/0000 Train Loss:0.203402 
+Epoch/Iter:211/0000 Test Loss:2.888370 acc:0.539274 data:val 
+step: 212/600 35% [Remain: 0h/ 8m/45s | 1.35s/step]
+
+Epoch/Iter:212/0000 Train Loss:1.388524 
+Epoch/Iter:212/0000 Test Loss:1.103395 acc:0.822635 data:val 
+step: 213/600 36% [Remain: 0h/ 8m/44s | 1.35s/step]
+
+Epoch/Iter:213/0000 Train Loss:0.117290 
+Epoch/Iter:213/0000 Test Loss:0.927652 acc:0.844595 data:val 
+step: 214/600 36% [Remain: 0h/ 8m/42s | 1.35s/step]
+
+Epoch/Iter:214/0000 Train Loss:0.144708 
+Epoch/Iter:214/0000 Test Loss:1.222569 acc:0.731841 data:val 
+step: 215/600 36% [Remain: 0h/ 8m/41s | 1.36s/step]
+
+Epoch/Iter:215/0000 Train Loss:0.272070 
+Epoch/Iter:215/0000 Test Loss:1.144804 acc:0.817990 data:val 
+step: 216/600 36% [Remain: 0h/ 8m/40s | 1.36s/step]
+
+Epoch/Iter:216/0000 Train Loss:0.106643 
+Epoch/Iter:216/0000 Test Loss:1.004744 acc:0.829814 data:val 
+step: 217/600 36% [Remain: 0h/ 8m/39s | 1.36s/step]
+
+Epoch/Iter:217/0000 Train Loss:0.188105 
+Epoch/Iter:217/0000 Test Loss:1.037266 acc:0.812922 data:val 
+step: 218/600 36% [Remain: 0h/ 8m/37s | 1.36s/step]
+
+Epoch/Iter:218/0000 Train Loss:0.133313 
+Epoch/Iter:218/0000 Test Loss:1.040782 acc:0.850084 data:val 
+step: 219/600 36% [Remain: 0h/ 8m/36s | 1.36s/step]
+
+Epoch/Iter:219/0000 Train Loss:0.126027 
+Epoch/Iter:219/0000 Test Loss:0.971456 acc:0.856419 data:val 
+step: 220/600 37% [Remain: 0h/ 8m/34s | 1.36s/step]
+
+Epoch/Iter:220/0000 Train Loss:0.114617 
+Epoch/Iter:220/0000 Test Loss:1.517204 acc:0.703970 data:val 
+step: 221/600 37% [Remain: 0h/ 8m/33s | 1.36s/step]
+
+Epoch/Iter:221/0000 Train Loss:0.367428 
+Epoch/Iter:221/0000 Test Loss:1.068006 acc:0.838260 data:val 
+step: 222/600 37% [Remain: 0h/ 8m/32s | 1.35s/step]
+
+Epoch/Iter:222/0000 Train Loss:0.155425 
+Epoch/Iter:222/0000 Test Loss:1.265944 acc:0.795608 data:val 
+step: 223/600 37% [Remain: 0h/ 8m/30s | 1.35s/step]
+
+Epoch/Iter:223/0000 Train Loss:0.108245 
+Epoch/Iter:223/0000 Test Loss:1.026604 acc:0.867821 data:val 
+step: 224/600 37% [Remain: 0h/ 8m/29s | 1.35s/step]
+
+Epoch/Iter:224/0000 Train Loss:0.083172 
+Epoch/Iter:224/0000 Test Loss:1.250711 acc:0.841639 data:val 
+step: 225/600 38% [Remain: 0h/ 8m/28s | 1.36s/step]
+
+Epoch/Iter:225/0000 Train Loss:0.106171 
+Epoch/Iter:225/0000 Test Loss:1.151317 acc:0.824747 data:val 
+step: 226/600 38% [Remain: 0h/ 8m/26s | 1.36s/step]
+
+Epoch/Iter:226/0000 Train Loss:0.128780 
+Epoch/Iter:226/0000 Test Loss:1.834623 acc:0.652027 data:val 
+step: 227/600 38% [Remain: 0h/ 8m/25s | 1.35s/step]
+
+Epoch/Iter:227/0000 Train Loss:0.605637 
+Epoch/Iter:227/0000 Test Loss:1.097515 acc:0.861064 data:val 
+step: 228/600 38% [Remain: 0h/ 8m/24s | 1.35s/step]
+
+Epoch/Iter:228/0000 Train Loss:0.086913 
+Epoch/Iter:228/0000 Test Loss:1.143780 acc:0.857686 data:val 
+step: 229/600 38% [Remain: 0h/ 8m/22s | 1.35s/step]
+
+Epoch/Iter:229/0000 Train Loss:0.073891 
+Epoch/Iter:229/0000 Test Loss:1.304795 acc:0.734375 data:val 
+step: 230/600 38% [Remain: 0h/ 8m/21s | 1.36s/step]
+
+Epoch/Iter:230/0000 Train Loss:0.303484 
+Epoch/Iter:230/0000 Test Loss:1.212923 acc:0.858530 data:val 
+step: 231/600 38% [Remain: 0h/ 8m/20s | 1.36s/step]
+
+Epoch/Iter:231/0000 Train Loss:0.086827 
+Epoch/Iter:231/0000 Test Loss:1.285214 acc:0.839527 data:val 
+step: 232/600 39% [Remain: 0h/ 8m/18s | 1.36s/step]
+
+Epoch/Iter:232/0000 Train Loss:0.039252 
+Epoch/Iter:232/0000 Test Loss:1.354973 acc:0.747466 data:val 
+step: 233/600 39% [Remain: 0h/ 8m/17s | 1.36s/step]
+
+Epoch/Iter:233/0000 Train Loss:0.166454 
+Epoch/Iter:233/0000 Test Loss:1.198738 acc:0.851351 data:val 
+step: 234/600 39% [Remain: 0h/ 8m/16s | 1.36s/step]
+
+Epoch/Iter:234/0000 Train Loss:0.037778 
+Epoch/Iter:234/0000 Test Loss:1.349674 acc:0.714527 data:val 
+step: 235/600 39% [Remain: 0h/ 8m/14s | 1.36s/step]
+
+Epoch/Iter:235/0000 Train Loss:0.332818 
+Epoch/Iter:235/0000 Test Loss:1.173709 acc:0.828547 data:val 
+step: 236/600 39% [Remain: 0h/ 8m/13s | 1.36s/step]
+
+Epoch/Iter:236/0000 Train Loss:0.072436 
+Epoch/Iter:236/0000 Test Loss:1.233838 acc:0.836149 data:val 
+step: 237/600 40% [Remain: 0h/ 8m/12s | 1.36s/step]
+
+Epoch/Iter:237/0000 Train Loss:0.119263 
+Epoch/Iter:237/0000 Test Loss:1.301249 acc:0.787162 data:val 
+step: 238/600 40% [Remain: 0h/ 8m/10s | 1.36s/step]
+
+Epoch/Iter:238/0000 Train Loss:0.242229 
+Epoch/Iter:238/0000 Test Loss:1.101853 acc:0.861909 data:val 
+step: 239/600 40% [Remain: 0h/ 8m/ 9s | 1.36s/step]
+
+Epoch/Iter:239/0000 Train Loss:0.049935 
+Epoch/Iter:239/0000 Test Loss:1.214567 acc:0.824747 data:val 
+step: 240/600 40% [Remain: 0h/ 8m/ 7s | 1.36s/step]
+
+Epoch/Iter:240/0000 Train Loss:0.147988 
+Epoch/Iter:240/0000 Test Loss:1.173999 acc:0.830236 data:val 
+step: 241/600 40% [Remain: 0h/ 8m/ 6s | 1.36s/step]
+
+Epoch/Iter:241/0000 Train Loss:0.191733 
+Epoch/Iter:241/0000 Test Loss:1.128880 acc:0.812500 data:val 
+step: 242/600 40% [Remain: 0h/ 8m/ 5s | 1.36s/step]
+
+Epoch/Iter:242/0000 Train Loss:0.108547 
+Epoch/Iter:242/0000 Test Loss:1.278714 acc:0.807010 data:val 
+step: 243/600 40% [Remain: 0h/ 8m/ 3s | 1.36s/step]
+
+Epoch/Iter:243/0000 Train Loss:0.142493 
+Epoch/Iter:243/0000 Test Loss:1.462365 acc:0.711571 data:val 
+step: 244/600 41% [Remain: 0h/ 8m/ 2s | 1.35s/step]
+
+Epoch/Iter:244/0000 Train Loss:0.359652 
+Epoch/Iter:244/0000 Test Loss:1.195814 acc:0.821368 data:val 
+step: 245/600 41% [Remain: 0h/ 8m/ 0s | 1.35s/step]
+
+Epoch/Iter:245/0000 Train Loss:0.181662 
+Epoch/Iter:245/0000 Test Loss:1.225747 acc:0.831081 data:val 
+step: 246/600 41% [Remain: 0h/ 7m/59s | 1.35s/step]
+
+Epoch/Iter:246/0000 Train Loss:0.074847 
+Epoch/Iter:246/0000 Test Loss:1.325495 acc:0.821368 data:val 
+step: 247/600 41% [Remain: 0h/ 7m/58s | 1.35s/step]
+
+Epoch/Iter:247/0000 Train Loss:0.224140 
+Epoch/Iter:247/0000 Test Loss:1.209336 acc:0.845439 data:val 
+step: 248/600 41% [Remain: 0h/ 7m/56s | 1.35s/step]
+
+Epoch/Iter:248/0000 Train Loss:0.063716 
+Epoch/Iter:248/0000 Test Loss:0.891836 acc:0.874155 data:val 
+step: 249/600 42% [Remain: 0h/ 7m/55s | 1.35s/step]
+
+Epoch/Iter:249/0000 Train Loss:0.065291 
+Epoch/Iter:249/0000 Test Loss:1.149216 acc:0.771959 data:val 
+step: 250/600 42% [Remain: 0h/ 7m/53s | 1.35s/step]
+
+Epoch/Iter:250/0000 Train Loss:0.197965 
+Epoch/Iter:250/0000 Test Loss:1.089311 acc:0.797720 data:val 
+step: 251/600 42% [Remain: 0h/ 7m/52s | 1.35s/step]
+
+Epoch/Iter:251/0000 Train Loss:0.181867 
+Epoch/Iter:251/0000 Test Loss:1.239249 acc:0.787584 data:val 
+step: 252/600 42% [Remain: 0h/ 7m/51s | 1.35s/step]
+
+Epoch/Iter:252/0000 Train Loss:0.188131 
+Epoch/Iter:252/0000 Test Loss:1.278426 acc:0.784628 data:val 
+step: 253/600 42% [Remain: 0h/ 7m/49s | 1.35s/step]
+
+Epoch/Iter:253/0000 Train Loss:0.097147 
+Epoch/Iter:253/0000 Test Loss:1.157144 acc:0.851774 data:val 
+step: 254/600 42% [Remain: 0h/ 7m/48s | 1.35s/step]
+
+Epoch/Iter:254/0000 Train Loss:0.033812 
+Epoch/Iter:254/0000 Test Loss:0.955254 acc:0.796453 data:val 
+step: 255/600 42% [Remain: 0h/ 7m/47s | 1.35s/step]
+
+Epoch/Iter:255/0000 Train Loss:0.308832 
+Epoch/Iter:255/0000 Test Loss:0.947567 acc:0.800676 data:val 
+step: 256/600 43% [Remain: 0h/ 7m/45s | 1.35s/step]
+
+Epoch/Iter:256/0000 Train Loss:0.208755 
+Epoch/Iter:256/0000 Test Loss:1.232302 acc:0.761824 data:val 
+step: 257/600 43% [Remain: 0h/ 7m/44s | 1.35s/step]
+
+Epoch/Iter:257/0000 Train Loss:0.203471 
+Epoch/Iter:257/0000 Test Loss:0.957584 acc:0.841639 data:val 
+step: 258/600 43% [Remain: 0h/ 7m/43s | 1.35s/step]
+
+Epoch/Iter:258/0000 Train Loss:0.162632 
+Epoch/Iter:258/0000 Test Loss:0.903539 acc:0.843750 data:val 
+step: 259/600 43% [Remain: 0h/ 7m/41s | 1.35s/step]
+
+Epoch/Iter:259/0000 Train Loss:0.135140 
+Epoch/Iter:259/0000 Test Loss:1.080941 acc:0.770270 data:val 
+step: 260/600 43% [Remain: 0h/ 7m/40s | 1.35s/step]
+
+Epoch/Iter:260/0000 Train Loss:0.420992 
+Epoch/Iter:260/0000 Test Loss:1.414584 acc:0.737753 data:val 
+step: 261/600 44% [Remain: 0h/ 7m/39s | 1.35s/step]
+
+Epoch/Iter:261/0000 Train Loss:0.507468 
+Epoch/Iter:261/0000 Test Loss:1.126502 acc:0.802787 data:val 
+step: 262/600 44% [Remain: 0h/ 7m/37s | 1.35s/step]
+
+Epoch/Iter:262/0000 Train Loss:0.197950 
+Epoch/Iter:262/0000 Test Loss:1.081570 acc:0.802365 data:val 
+step: 263/600 44% [Remain: 0h/ 7m/36s | 1.35s/step]
+
+Epoch/Iter:263/0000 Train Loss:0.298164 
+Epoch/Iter:263/0000 Test Loss:0.882065 acc:0.867821 data:val 
+step: 264/600 44% [Remain: 0h/ 7m/34s | 1.35s/step]
+
+Epoch/Iter:264/0000 Train Loss:0.154324 
+Epoch/Iter:264/0000 Test Loss:1.055152 acc:0.852618 data:val 
+step: 265/600 44% [Remain: 0h/ 7m/33s | 1.35s/step]
+
+Epoch/Iter:265/0000 Train Loss:0.074711 
+Epoch/Iter:265/0000 Test Loss:1.080938 acc:0.842483 data:val 
+step: 266/600 44% [Remain: 0h/ 7m/32s | 1.35s/step]
+
+Epoch/Iter:266/0000 Train Loss:0.068293 
+Epoch/Iter:266/0000 Test Loss:1.168255 acc:0.854730 data:val 
+step: 267/600 44% [Remain: 0h/ 7m/30s | 1.35s/step]
+
+Epoch/Iter:267/0000 Train Loss:0.068782 
+Epoch/Iter:267/0000 Test Loss:1.219250 acc:0.788429 data:val 
+step: 268/600 45% [Remain: 0h/ 7m/29s | 1.35s/step]
+
+Epoch/Iter:268/0000 Train Loss:0.185469 
+Epoch/Iter:268/0000 Test Loss:1.214548 acc:0.793497 data:val 
+step: 269/600 45% [Remain: 0h/ 7m/28s | 1.35s/step]
+
+Epoch/Iter:269/0000 Train Loss:0.154774 
+Epoch/Iter:269/0000 Test Loss:1.140335 acc:0.820101 data:val 
+step: 270/600 45% [Remain: 0h/ 7m/26s | 1.35s/step]
+
+Epoch/Iter:270/0000 Train Loss:0.140295 
+Epoch/Iter:270/0000 Test Loss:1.044325 acc:0.860642 data:val 
+step: 271/600 45% [Remain: 0h/ 7m/25s | 1.35s/step]
+
+Epoch/Iter:271/0000 Train Loss:0.102021 
+Epoch/Iter:271/0000 Test Loss:1.174121 acc:0.798564 data:val 
+step: 272/600 45% [Remain: 0h/ 7m/24s | 1.35s/step]
+
+Epoch/Iter:272/0000 Train Loss:0.222699 
+Epoch/Iter:272/0000 Test Loss:1.059092 acc:0.860220 data:val 
+step: 273/600 46% [Remain: 0h/ 7m/22s | 1.35s/step]
+
+Epoch/Iter:273/0000 Train Loss:0.077993 
+Epoch/Iter:273/0000 Test Loss:1.153157 acc:0.829392 data:val 
+step: 274/600 46% [Remain: 0h/ 7m/21s | 1.35s/step]
+
+Epoch/Iter:274/0000 Train Loss:0.061859 
+Epoch/Iter:274/0000 Test Loss:1.070679 acc:0.844595 data:val 
+step: 275/600 46% [Remain: 0h/ 7m/20s | 1.35s/step]
+
+Epoch/Iter:275/0000 Train Loss:0.156722 
+Epoch/Iter:275/0000 Test Loss:2.411166 acc:0.574747 data:val 
+step: 276/600 46% [Remain: 0h/ 7m/18s | 1.35s/step]
+
+Epoch/Iter:276/0000 Train Loss:0.905075 
+Epoch/Iter:276/0000 Test Loss:1.166934 acc:0.843750 data:val 
+step: 277/600 46% [Remain: 0h/ 7m/17s | 1.35s/step]
+
+Epoch/Iter:277/0000 Train Loss:0.118854 
+Epoch/Iter:277/0000 Test Loss:1.074970 acc:0.804899 data:val 
+step: 278/600 46% [Remain: 0h/ 7m/16s | 1.35s/step]
+
+Epoch/Iter:278/0000 Train Loss:0.217318 
+Epoch/Iter:278/0000 Test Loss:1.195599 acc:0.756334 data:val 
+step: 279/600 46% [Remain: 0h/ 7m/14s | 1.35s/step]
+
+Epoch/Iter:279/0000 Train Loss:0.329261 
+Epoch/Iter:279/0000 Test Loss:1.333159 acc:0.763936 data:val 
+step: 280/600 47% [Remain: 0h/ 7m/13s | 1.35s/step]
+
+Epoch/Iter:280/0000 Train Loss:0.218541 
+Epoch/Iter:280/0000 Test Loss:1.029421 acc:0.878378 data:val 
+step: 281/600 47% [Remain: 0h/ 7m/11s | 1.35s/step]
+
+Epoch/Iter:281/0000 Train Loss:0.085944 
+Epoch/Iter:281/0000 Test Loss:1.515100 acc:0.734375 data:val 
+step: 282/600 47% [Remain: 0h/ 7m/10s | 1.35s/step]
+
+Epoch/Iter:282/0000 Train Loss:0.496365 
+Epoch/Iter:282/0000 Test Loss:1.065860 acc:0.850084 data:val 
+step: 283/600 47% [Remain: 0h/ 7m/ 9s | 1.35s/step]
+
+Epoch/Iter:283/0000 Train Loss:0.103515 
+Epoch/Iter:283/0000 Test Loss:0.977180 acc:0.875422 data:val 
+step: 284/600 47% [Remain: 0h/ 7m/ 7s | 1.35s/step]
+
+Epoch/Iter:284/0000 Train Loss:0.108071 
+Epoch/Iter:284/0000 Test Loss:1.131256 acc:0.777872 data:val 
+step: 285/600 48% [Remain: 0h/ 7m/ 6s | 1.35s/step]
+
+Epoch/Iter:285/0000 Train Loss:0.283140 
+Epoch/Iter:285/0000 Test Loss:1.245963 acc:0.791385 data:val 
+step: 286/600 48% [Remain: 0h/ 7m/ 5s | 1.35s/step]
+
+Epoch/Iter:286/0000 Train Loss:0.147503 
+Epoch/Iter:286/0000 Test Loss:1.680616 acc:0.648649 data:val 
+step: 287/600 48% [Remain: 0h/ 7m/ 3s | 1.35s/step]
+
+Epoch/Iter:287/0000 Train Loss:0.570487 
+Epoch/Iter:287/0000 Test Loss:1.097296 acc:0.874155 data:val 
+step: 288/600 48% [Remain: 0h/ 7m/ 2s | 1.35s/step]
+
+Epoch/Iter:288/0000 Train Loss:0.038610 
+Epoch/Iter:288/0000 Test Loss:1.030764 acc:0.859375 data:val 
+step: 289/600 48% [Remain: 0h/ 7m/ 1s | 1.35s/step]
+
+Epoch/Iter:289/0000 Train Loss:0.120915 
+Epoch/Iter:289/0000 Test Loss:0.961537 acc:0.851351 data:val 
+step: 290/600 48% [Remain: 0h/ 6m/59s | 1.35s/step]
+
+Epoch/Iter:290/0000 Train Loss:0.114568 
+Epoch/Iter:290/0000 Test Loss:1.003771 acc:0.829814 data:val 
+step: 291/600 48% [Remain: 0h/ 6m/58s | 1.35s/step]
+
+Epoch/Iter:291/0000 Train Loss:0.171436 
+Epoch/Iter:291/0000 Test Loss:1.250759 acc:0.728041 data:val 
+step: 292/600 49% [Remain: 0h/ 6m/56s | 1.35s/step]
+
+Epoch/Iter:292/0000 Train Loss:0.225527 
+Epoch/Iter:292/0000 Test Loss:1.147150 acc:0.798564 data:val 
+step: 293/600 49% [Remain: 0h/ 6m/55s | 1.35s/step]
+
+Epoch/Iter:293/0000 Train Loss:0.146452 
+Epoch/Iter:293/0000 Test Loss:1.054768 acc:0.883868 data:val 
+step: 294/600 49% [Remain: 0h/ 6m/54s | 1.35s/step]
+
+Epoch/Iter:294/0000 Train Loss:0.036594 
+Epoch/Iter:294/0000 Test Loss:1.447064 acc:0.759713 data:val 
+step: 295/600 49% [Remain: 0h/ 6m/53s | 1.35s/step]
+
+Epoch/Iter:295/0000 Train Loss:0.179087 
+Epoch/Iter:295/0000 Test Loss:1.081525 acc:0.839105 data:val 
+step: 296/600 49% [Remain: 0h/ 6m/51s | 1.35s/step]
+
+Epoch/Iter:296/0000 Train Loss:0.175084 
+Epoch/Iter:296/0000 Test Loss:1.143960 acc:0.857686 data:val 
+step: 297/600 50% [Remain: 0h/ 6m/50s | 1.35s/step]
+
+Epoch/Iter:297/0000 Train Loss:0.035780 
+Epoch/Iter:297/0000 Test Loss:1.100983 acc:0.844172 data:val 
+step: 298/600 50% [Remain: 0h/ 6m/49s | 1.35s/step]
+
+Epoch/Iter:298/0000 Train Loss:0.139255 
+Epoch/Iter:298/0000 Test Loss:1.207514 acc:0.822213 data:val 
+step: 299/600 50% [Remain: 0h/ 6m/47s | 1.35s/step]
+
+Epoch/Iter:299/0000 Train Loss:0.146119 
+Epoch/Iter:299/0000 Test Loss:1.178084 acc:0.843328 data:val 
+step: 300/600 50% [Remain: 0h/ 6m/46s | 1.35s/step]
+
+Epoch/Iter:300/0000 Train Loss:0.077097 
+Epoch/Iter:300/0000 Test Loss:1.141378 acc:0.864865 data:val 
+step: 301/600 50% [Remain: 0h/ 6m/44s | 1.35s/step]
+
+Epoch/Iter:301/0000 Train Loss:0.091467 
+Epoch/Iter:301/0000 Test Loss:1.090343 acc:0.870777 data:val 
+step: 302/600 50% [Remain: 0h/ 6m/43s | 1.35s/step]
+
+Epoch/Iter:302/0000 Train Loss:0.098443 
+Epoch/Iter:302/0000 Test Loss:1.092426 acc:0.877111 data:val 
+step: 303/600 50% [Remain: 0h/ 6m/42s | 1.35s/step]
+
+Epoch/Iter:303/0000 Train Loss:0.069574 
+Epoch/Iter:303/0000 Test Loss:0.855122 acc:0.872044 data:val 
+step: 304/600 51% [Remain: 0h/ 6m/40s | 1.35s/step]
+
+Epoch/Iter:304/0000 Train Loss:0.095353 
+Epoch/Iter:304/0000 Test Loss:0.991493 acc:0.873311 data:val 
+step: 305/600 51% [Remain: 0h/ 6m/39s | 1.35s/step]
+
+Epoch/Iter:305/0000 Train Loss:0.092054 
+Epoch/Iter:305/0000 Test Loss:1.364686 acc:0.727196 data:val 
+step: 306/600 51% [Remain: 0h/ 6m/38s | 1.35s/step]
+
+Epoch/Iter:306/0000 Train Loss:0.263590 
+Epoch/Iter:306/0000 Test Loss:1.135699 acc:0.822213 data:val 
+step: 307/600 51% [Remain: 0h/ 6m/36s | 1.35s/step]
+
+Epoch/Iter:307/0000 Train Loss:0.107520 
+Epoch/Iter:307/0000 Test Loss:1.152567 acc:0.839949 data:val 
+step: 308/600 51% [Remain: 0h/ 6m/35s | 1.35s/step]
+
+Epoch/Iter:308/0000 Train Loss:0.120356 
+Epoch/Iter:308/0000 Test Loss:1.105054 acc:0.881334 data:val 
+step: 309/600 52% [Remain: 0h/ 6m/34s | 1.35s/step]
+
+Epoch/Iter:309/0000 Train Loss:0.058353 
+Epoch/Iter:309/0000 Test Loss:1.167539 acc:0.821791 data:val 
+step: 310/600 52% [Remain: 0h/ 6m/32s | 1.35s/step]
+
+Epoch/Iter:310/0000 Train Loss:0.166073 
+Epoch/Iter:310/0000 Test Loss:1.338537 acc:0.773649 data:val 
+step: 311/600 52% [Remain: 0h/ 6m/31s | 1.35s/step]
+
+Epoch/Iter:311/0000 Train Loss:0.312757 
+Epoch/Iter:311/0000 Test Loss:1.071768 acc:0.835726 data:val 
+step: 312/600 52% [Remain: 0h/ 6m/30s | 1.35s/step]
+
+Epoch/Iter:312/0000 Train Loss:0.068001 
+Epoch/Iter:312/0000 Test Loss:1.291541 acc:0.762669 data:val 
+step: 313/600 52% [Remain: 0h/ 6m/28s | 1.35s/step]
+
+Epoch/Iter:313/0000 Train Loss:0.190620 
+Epoch/Iter:313/0000 Test Loss:1.036899 acc:0.835304 data:val 
+step: 314/600 52% [Remain: 0h/ 6m/27s | 1.35s/step]
+
+Epoch/Iter:314/0000 Train Loss:0.093882 
+Epoch/Iter:314/0000 Test Loss:1.518016 acc:0.682010 data:val 
+step: 315/600 52% [Remain: 0h/ 6m/25s | 1.35s/step]
+
+Epoch/Iter:315/0000 Train Loss:0.346535 
+Epoch/Iter:315/0000 Test Loss:1.858093 acc:0.654139 data:val 
+step: 316/600 53% [Remain: 0h/ 6m/24s | 1.35s/step]
+
+Epoch/Iter:316/0000 Train Loss:0.644356 
+Epoch/Iter:316/0000 Test Loss:1.070683 acc:0.858108 data:val 
+step: 317/600 53% [Remain: 0h/ 6m/23s | 1.35s/step]
+
+Epoch/Iter:317/0000 Train Loss:0.137563 
+Epoch/Iter:317/0000 Test Loss:1.770992 acc:0.628378 data:val 
+step: 318/600 53% [Remain: 0h/ 6m/21s | 1.35s/step]
+
+Epoch/Iter:318/0000 Train Loss:0.455643 
+Epoch/Iter:318/0000 Test Loss:1.239443 acc:0.831926 data:val 
+step: 319/600 53% [Remain: 0h/ 6m/20s | 1.35s/step]
+
+Epoch/Iter:319/0000 Train Loss:0.191945 
+Epoch/Iter:319/0000 Test Loss:0.997539 acc:0.885557 data:val 
+step: 320/600 53% [Remain: 0h/ 6m/19s | 1.35s/step]
+
+Epoch/Iter:320/0000 Train Loss:0.044289 
+Epoch/Iter:320/0000 Test Loss:1.093901 acc:0.834459 data:val 
+step: 321/600 54% [Remain: 0h/ 6m/17s | 1.35s/step]
+
+Epoch/Iter:321/0000 Train Loss:0.083395 
+Epoch/Iter:321/0000 Test Loss:1.316907 acc:0.788007 data:val 
+step: 322/600 54% [Remain: 0h/ 6m/16s | 1.35s/step]
+
+Epoch/Iter:322/0000 Train Loss:0.185375 
+Epoch/Iter:322/0000 Test Loss:1.060053 acc:0.836571 data:val 
+step: 323/600 54% [Remain: 0h/ 6m/15s | 1.35s/step]
+
+Epoch/Iter:323/0000 Train Loss:0.101663 
+Epoch/Iter:323/0000 Test Loss:0.944185 acc:0.869932 data:val 
+step: 324/600 54% [Remain: 0h/ 6m/13s | 1.36s/step]
+
+Epoch/Iter:324/0000 Train Loss:0.074216 
+Epoch/Iter:324/0000 Test Loss:1.049110 acc:0.814611 data:val 
+step: 325/600 54% [Remain: 0h/ 6m/12s | 1.36s/step]
+
+Epoch/Iter:325/0000 Train Loss:0.149360 
+Epoch/Iter:325/0000 Test Loss:3.532583 acc:0.501267 data:val 
+step: 326/600 54% [Remain: 0h/ 6m/11s | 1.36s/step]
+
+Epoch/Iter:326/0000 Train Loss:1.005315 
+Epoch/Iter:326/0000 Test Loss:1.061532 acc:0.820524 data:val 
+step: 327/600 54% [Remain: 0h/ 6m/10s | 1.36s/step]
+
+Epoch/Iter:327/0000 Train Loss:0.072373 
+Epoch/Iter:327/0000 Test Loss:1.082892 acc:0.859375 data:val 
+step: 328/600 55% [Remain: 0h/ 6m/ 8s | 1.35s/step]
+
+Epoch/Iter:328/0000 Train Loss:0.055184 
+Epoch/Iter:328/0000 Test Loss:1.255582 acc:0.785051 data:val 
+step: 329/600 55% [Remain: 0h/ 6m/ 7s | 1.36s/step]
+
+Epoch/Iter:329/0000 Train Loss:0.198069 
+Epoch/Iter:329/0000 Test Loss:1.166347 acc:0.850084 data:val 
+step: 330/600 55% [Remain: 0h/ 6m/ 5s | 1.36s/step]
+
+Epoch/Iter:330/0000 Train Loss:0.063640 
+Epoch/Iter:330/0000 Test Loss:1.018648 acc:0.841216 data:val 
+step: 331/600 55% [Remain: 0h/ 6m/ 4s | 1.36s/step]
+
+Epoch/Iter:331/0000 Train Loss:0.043807 
+Epoch/Iter:331/0000 Test Loss:1.010684 acc:0.855997 data:val 
+step: 332/600 55% [Remain: 0h/ 6m/ 3s | 1.36s/step]
+
+Epoch/Iter:332/0000 Train Loss:0.094169 
+Epoch/Iter:332/0000 Test Loss:1.250983 acc:0.740287 data:val 
+step: 333/600 56% [Remain: 0h/ 6m/ 1s | 1.36s/step]
+
+Epoch/Iter:333/0000 Train Loss:0.144380 
+Epoch/Iter:333/0000 Test Loss:1.151092 acc:0.824747 data:val 
+step: 334/600 56% [Remain: 0h/ 6m/ 0s | 1.36s/step]
+
+Epoch/Iter:334/0000 Train Loss:0.155034 
+Epoch/Iter:334/0000 Test Loss:1.171731 acc:0.839105 data:val 
+step: 335/600 56% [Remain: 0h/ 5m/59s | 1.36s/step]
+
+Epoch/Iter:335/0000 Train Loss:0.164298 
+Epoch/Iter:335/0000 Test Loss:1.630717 acc:0.741554 data:val 
+step: 336/600 56% [Remain: 0h/ 5m/57s | 1.36s/step]
+
+Epoch/Iter:336/0000 Train Loss:0.467923 
+Epoch/Iter:336/0000 Test Loss:1.366527 acc:0.771115 data:val 
+step: 337/600 56% [Remain: 0h/ 5m/56s | 1.36s/step]
+
+Epoch/Iter:337/0000 Train Loss:0.245298 
+Epoch/Iter:337/0000 Test Loss:1.291407 acc:0.801943 data:val 
+step: 338/600 56% [Remain: 0h/ 5m/55s | 1.36s/step]
+
+Epoch/Iter:338/0000 Train Loss:0.255039 
+Epoch/Iter:338/0000 Test Loss:1.287536 acc:0.811233 data:val 
+step: 339/600 56% [Remain: 0h/ 5m/53s | 1.36s/step]
+
+Epoch/Iter:339/0000 Train Loss:0.317443 
+Epoch/Iter:339/0000 Test Loss:2.814371 acc:0.581503 data:val 
+step: 340/600 57% [Remain: 0h/ 5m/52s | 1.36s/step]
+
+Epoch/Iter:340/0000 Train Loss:0.490565 
+Epoch/Iter:340/0000 Test Loss:1.052928 acc:0.861909 data:val 
+step: 341/600 57% [Remain: 0h/ 5m/51s | 1.36s/step]
+
+Epoch/Iter:341/0000 Train Loss:0.135751 
+Epoch/Iter:341/0000 Test Loss:1.691780 acc:0.644003 data:val 
+step: 342/600 57% [Remain: 0h/ 5m/49s | 1.36s/step]
+
+Epoch/Iter:342/0000 Train Loss:1.485793 
+Epoch/Iter:342/0000 Test Loss:1.198432 acc:0.883024 data:val 
+step: 343/600 57% [Remain: 0h/ 5m/48s | 1.36s/step]
+
+Epoch/Iter:343/0000 Train Loss:0.075430 
+Epoch/Iter:343/0000 Test Loss:1.200658 acc:0.826014 data:val 
+step: 344/600 57% [Remain: 0h/ 5m/46s | 1.36s/step]
+
+Epoch/Iter:344/0000 Train Loss:0.147130 
+Epoch/Iter:344/0000 Test Loss:1.266364 acc:0.820524 data:val 
+step: 345/600 58% [Remain: 0h/ 5m/45s | 1.35s/step]
+
+Epoch/Iter:345/0000 Train Loss:0.158892 
+Epoch/Iter:345/0000 Test Loss:3.217782 acc:0.567568 data:val 
+step: 346/600 58% [Remain: 0h/ 5m/44s | 1.35s/step]
+
+Epoch/Iter:346/0000 Train Loss:0.519664 
+Epoch/Iter:346/0000 Test Loss:1.235519 acc:0.847128 data:val 
+step: 347/600 58% [Remain: 0h/ 5m/42s | 1.36s/step]
+
+Epoch/Iter:347/0000 Train Loss:0.090367 
+Epoch/Iter:347/0000 Test Loss:1.319304 acc:0.783784 data:val 
+step: 348/600 58% [Remain: 0h/ 5m/41s | 1.36s/step]
+
+Epoch/Iter:348/0000 Train Loss:0.240029 
+Epoch/Iter:348/0000 Test Loss:1.096809 acc:0.812500 data:val 
+step: 349/600 58% [Remain: 0h/ 5m/40s | 1.36s/step]
+
+Epoch/Iter:349/0000 Train Loss:0.132250 
+Epoch/Iter:349/0000 Test Loss:1.019345 acc:0.878801 data:val 
+step: 350/600 58% [Remain: 0h/ 5m/38s | 1.36s/step]
+
+Epoch/Iter:350/0000 Train Loss:0.103780 
+Epoch/Iter:350/0000 Test Loss:1.719561 acc:0.704814 data:val 
+step: 351/600 58% [Remain: 0h/ 5m/37s | 1.36s/step]
+
+Epoch/Iter:351/0000 Train Loss:0.563923 
+Epoch/Iter:351/0000 Test Loss:1.418780 acc:0.801943 data:val 
+step: 352/600 59% [Remain: 0h/ 5m/36s | 1.35s/step]
+
+Epoch/Iter:352/0000 Train Loss:0.226643 
+Epoch/Iter:352/0000 Test Loss:1.177415 acc:0.841216 data:val 
+step: 353/600 59% [Remain: 0h/ 5m/34s | 1.35s/step]
+
+Epoch/Iter:353/0000 Train Loss:0.141642 
+Epoch/Iter:353/0000 Test Loss:2.196966 acc:0.551520 data:val 
+step: 354/600 59% [Remain: 0h/ 5m/33s | 1.35s/step]
+
+Epoch/Iter:354/0000 Train Loss:1.506780 
+Epoch/Iter:354/0000 Test Loss:1.182350 acc:0.821368 data:val 
+step: 355/600 59% [Remain: 0h/ 5m/31s | 1.35s/step]
+
+Epoch/Iter:355/0000 Train Loss:0.201332 
+Epoch/Iter:355/0000 Test Loss:1.292517 acc:0.804476 data:val 
+step: 356/600 59% [Remain: 0h/ 5m/30s | 1.35s/step]
+
+Epoch/Iter:356/0000 Train Loss:0.147204 
+Epoch/Iter:356/0000 Test Loss:1.122916 acc:0.884291 data:val 
+step: 357/600 60% [Remain: 0h/ 5m/29s | 1.35s/step]
+
+Epoch/Iter:357/0000 Train Loss:0.027785 
+Epoch/Iter:357/0000 Test Loss:0.924336 acc:0.815034 data:val 
+step: 358/600 60% [Remain: 0h/ 5m/27s | 1.35s/step]
+
+Epoch/Iter:358/0000 Train Loss:0.101193 
+Epoch/Iter:358/0000 Test Loss:0.901392 acc:0.869932 data:val 
+step: 359/600 60% [Remain: 0h/ 5m/26s | 1.35s/step]
+
+Epoch/Iter:359/0000 Train Loss:0.033964 
+Epoch/Iter:359/0000 Test Loss:1.374957 acc:0.673142 data:val 
+step: 360/600 60% [Remain: 0h/ 5m/24s | 1.35s/step]
+
+Epoch/Iter:360/0000 Train Loss:0.280693 
+Epoch/Iter:360/0000 Test Loss:1.114190 acc:0.859375 data:val 
+step: 361/600 60% [Remain: 0h/ 5m/23s | 1.35s/step]
+
+Epoch/Iter:361/0000 Train Loss:0.022445 
+Epoch/Iter:361/0000 Test Loss:1.017649 acc:0.877534 data:val 
+step: 362/600 60% [Remain: 0h/ 5m/22s | 1.35s/step]
+
+Epoch/Iter:362/0000 Train Loss:0.028219 
+Epoch/Iter:362/0000 Test Loss:0.977615 acc:0.879223 data:val 
+step: 363/600 60% [Remain: 0h/ 5m/20s | 1.35s/step]
+
+Epoch/Iter:363/0000 Train Loss:0.078387 
+Epoch/Iter:363/0000 Test Loss:1.036435 acc:0.874578 data:val 
+step: 364/600 61% [Remain: 0h/ 5m/19s | 1.35s/step]
+
+Epoch/Iter:364/0000 Train Loss:0.063486 
+Epoch/Iter:364/0000 Test Loss:1.041880 acc:0.874578 data:val 
+step: 365/600 61% [Remain: 0h/ 5m/18s | 1.35s/step]
+
+Epoch/Iter:365/0000 Train Loss:0.059475 
+Epoch/Iter:365/0000 Test Loss:1.168619 acc:0.842905 data:val 
+step: 366/600 61% [Remain: 0h/ 5m/16s | 1.35s/step]
+
+Epoch/Iter:366/0000 Train Loss:0.103584 
+Epoch/Iter:366/0000 Test Loss:1.068896 acc:0.869088 data:val 
+step: 367/600 61% [Remain: 0h/ 5m/15s | 1.35s/step]
+
+Epoch/Iter:367/0000 Train Loss:0.055122 
+Epoch/Iter:367/0000 Test Loss:1.221131 acc:0.699324 data:val 
+step: 368/600 61% [Remain: 0h/ 5m/14s | 1.35s/step]
+
+Epoch/Iter:368/0000 Train Loss:0.431346 
+Epoch/Iter:368/0000 Test Loss:1.067160 acc:0.867821 data:val 
+step: 369/600 62% [Remain: 0h/ 5m/12s | 1.35s/step]
+
+Epoch/Iter:369/0000 Train Loss:0.063464 
+Epoch/Iter:369/0000 Test Loss:1.275877 acc:0.826858 data:val 
+step: 370/600 62% [Remain: 0h/ 5m/11s | 1.35s/step]
+
+Epoch/Iter:370/0000 Train Loss:0.062211 
+Epoch/Iter:370/0000 Test Loss:0.948310 acc:0.874155 data:val 
+step: 371/600 62% [Remain: 0h/ 5m/10s | 1.35s/step]
+
+Epoch/Iter:371/0000 Train Loss:0.031916 
+Epoch/Iter:371/0000 Test Loss:1.087333 acc:0.791807 data:val 
+step: 372/600 62% [Remain: 0h/ 5m/ 8s | 1.35s/step]
+
+Epoch/Iter:372/0000 Train Loss:0.186701 
+Epoch/Iter:372/0000 Test Loss:1.155864 acc:0.811233 data:val 
+step: 373/600 62% [Remain: 0h/ 5m/ 7s | 1.35s/step]
+
+Epoch/Iter:373/0000 Train Loss:0.134445 
+Epoch/Iter:373/0000 Test Loss:1.264274 acc:0.812078 data:val 
+step: 374/600 62% [Remain: 0h/ 5m/ 6s | 1.35s/step]
+
+Epoch/Iter:374/0000 Train Loss:0.181073 
+Epoch/Iter:374/0000 Test Loss:1.194155 acc:0.849240 data:val 
+step: 375/600 62% [Remain: 0h/ 5m/ 4s | 1.35s/step]
+
+Epoch/Iter:375/0000 Train Loss:0.063035 
+Epoch/Iter:375/0000 Test Loss:1.260955 acc:0.847973 data:val 
+step: 376/600 63% [Remain: 0h/ 5m/ 3s | 1.35s/step]
+
+Epoch/Iter:376/0000 Train Loss:0.078503 
+Epoch/Iter:376/0000 Test Loss:1.948118 acc:0.624155 data:val 
+step: 377/600 63% [Remain: 0h/ 5m/ 2s | 1.35s/step]
+
+Epoch/Iter:377/0000 Train Loss:0.485990 
+Epoch/Iter:377/0000 Test Loss:1.306400 acc:0.820946 data:val 
+step: 378/600 63% [Remain: 0h/ 5m/ 0s | 1.35s/step]
+
+Epoch/Iter:378/0000 Train Loss:0.292386 
+Epoch/Iter:378/0000 Test Loss:1.248915 acc:0.836993 data:val 
+step: 379/600 63% [Remain: 0h/ 4m/59s | 1.35s/step]
+
+Epoch/Iter:379/0000 Train Loss:0.129255 
+Epoch/Iter:379/0000 Test Loss:1.338177 acc:0.831081 data:val 
+step: 380/600 63% [Remain: 0h/ 4m/57s | 1.35s/step]
+
+Epoch/Iter:380/0000 Train Loss:0.100336 
+Epoch/Iter:380/0000 Test Loss:1.227729 acc:0.802787 data:val 
+step: 381/600 64% [Remain: 0h/ 4m/56s | 1.35s/step]
+
+Epoch/Iter:381/0000 Train Loss:0.114922 
+Epoch/Iter:381/0000 Test Loss:1.136593 acc:0.863598 data:val 
+step: 382/600 64% [Remain: 0h/ 4m/55s | 1.35s/step]
+
+Epoch/Iter:382/0000 Train Loss:0.109867 
+Epoch/Iter:382/0000 Test Loss:1.095828 acc:0.880490 data:val 
+step: 383/600 64% [Remain: 0h/ 4m/53s | 1.35s/step]
+
+Epoch/Iter:383/0000 Train Loss:0.033871 
+Epoch/Iter:383/0000 Test Loss:1.093380 acc:0.823057 data:val 
+step: 384/600 64% [Remain: 0h/ 4m/52s | 1.35s/step]
+
+Epoch/Iter:384/0000 Train Loss:0.167361 
+Epoch/Iter:384/0000 Test Loss:1.047895 acc:0.870355 data:val 
+step: 385/600 64% [Remain: 0h/ 4m/51s | 1.35s/step]
+
+Epoch/Iter:385/0000 Train Loss:0.081029 
+Epoch/Iter:385/0000 Test Loss:1.189480 acc:0.865709 data:val 
+step: 386/600 64% [Remain: 0h/ 4m/49s | 1.35s/step]
+
+Epoch/Iter:386/0000 Train Loss:0.063241 
+Epoch/Iter:386/0000 Test Loss:1.017873 acc:0.857264 data:val 
+step: 387/600 64% [Remain: 0h/ 4m/48s | 1.35s/step]
+
+Epoch/Iter:387/0000 Train Loss:0.091463 
+Epoch/Iter:387/0000 Test Loss:1.053672 acc:0.817990 data:val 
+step: 388/600 65% [Remain: 0h/ 4m/47s | 1.35s/step]
+
+Epoch/Iter:388/0000 Train Loss:0.104630 
+Epoch/Iter:388/0000 Test Loss:1.237195 acc:0.804054 data:val 
+step: 389/600 65% [Remain: 0h/ 4m/45s | 1.35s/step]
+
+Epoch/Iter:389/0000 Train Loss:0.167722 
+Epoch/Iter:389/0000 Test Loss:1.308871 acc:0.812500 data:val 
+step: 390/600 65% [Remain: 0h/ 4m/44s | 1.35s/step]
+
+Epoch/Iter:390/0000 Train Loss:0.155630 
+Epoch/Iter:390/0000 Test Loss:1.229364 acc:0.852618 data:val 
+step: 391/600 65% [Remain: 0h/ 4m/43s | 1.35s/step]
+
+Epoch/Iter:391/0000 Train Loss:0.074235 
+Epoch/Iter:391/0000 Test Loss:1.234544 acc:0.866132 data:val 
+step: 392/600 65% [Remain: 0h/ 4m/41s | 1.35s/step]
+
+Epoch/Iter:392/0000 Train Loss:0.063400 
+Epoch/Iter:392/0000 Test Loss:1.314178 acc:0.789274 data:val 
+step: 393/600 66% [Remain: 0h/ 4m/40s | 1.35s/step]
+
+Epoch/Iter:393/0000 Train Loss:0.268026 
+Epoch/Iter:393/0000 Test Loss:1.140458 acc:0.887669 data:val 
+step: 394/600 66% [Remain: 0h/ 4m/39s | 1.35s/step]
+
+Epoch/Iter:394/0000 Train Loss:0.033934 
+Epoch/Iter:394/0000 Test Loss:1.129048 acc:0.879645 data:val 
+step: 395/600 66% [Remain: 0h/ 4m/37s | 1.35s/step]
+
+Epoch/Iter:395/0000 Train Loss:0.030755 
+Epoch/Iter:395/0000 Test Loss:1.117100 acc:0.835304 data:val 
+step: 396/600 66% [Remain: 0h/ 4m/36s | 1.35s/step]
+
+Epoch/Iter:396/0000 Train Loss:0.091058 
+Epoch/Iter:396/0000 Test Loss:1.278975 acc:0.888936 data:val 
+step: 397/600 66% [Remain: 0h/ 4m/34s | 1.35s/step]
+
+Epoch/Iter:397/0000 Train Loss:0.023548 
+Epoch/Iter:397/0000 Test Loss:1.143901 acc:0.861909 data:val 
+step: 398/600 66% [Remain: 0h/ 4m/33s | 1.35s/step]
+
+Epoch/Iter:398/0000 Train Loss:0.061751 
+Epoch/Iter:398/0000 Test Loss:1.252972 acc:0.887247 data:val 
+step: 399/600 66% [Remain: 0h/ 4m/32s | 1.35s/step]
+
+Epoch/Iter:399/0000 Train Loss:0.033137 
+Epoch/Iter:399/0000 Test Loss:1.481596 acc:0.791807 data:val 
+step: 400/600 67% [Remain: 0h/ 4m/30s | 1.35s/step]
+
+Epoch/Iter:400/0000 Train Loss:0.199631 
+Epoch/Iter:400/0000 Test Loss:1.192587 acc:0.887669 data:val 
+step: 401/600 67% [Remain: 0h/ 4m/29s | 1.35s/step]
+
+Epoch/Iter:401/0000 Train Loss:0.015835 
+Epoch/Iter:401/0000 Test Loss:5.167413 acc:0.434122 data:val 
+step: 402/600 67% [Remain: 0h/ 4m/28s | 1.35s/step]
+
+Epoch/Iter:402/0000 Train Loss:2.044708 
+Epoch/Iter:402/0000 Test Loss:1.257924 acc:0.859375 data:val 
+step: 403/600 67% [Remain: 0h/ 4m/26s | 1.35s/step]
+
+Epoch/Iter:403/0000 Train Loss:0.125850 
+Epoch/Iter:403/0000 Test Loss:1.320571 acc:0.843750 data:val 
+step: 404/600 67% [Remain: 0h/ 4m/25s | 1.35s/step]
+
+Epoch/Iter:404/0000 Train Loss:0.123879 
+Epoch/Iter:404/0000 Test Loss:1.277988 acc:0.832348 data:val 
+step: 405/600 68% [Remain: 0h/ 4m/24s | 1.35s/step]
+
+Epoch/Iter:405/0000 Train Loss:0.131663 
+Epoch/Iter:405/0000 Test Loss:1.166792 acc:0.888514 data:val 
+step: 406/600 68% [Remain: 0h/ 4m/22s | 1.35s/step]
+
+Epoch/Iter:406/0000 Train Loss:0.037331 
+Epoch/Iter:406/0000 Test Loss:1.341478 acc:0.757601 data:val 
+step: 407/600 68% [Remain: 0h/ 4m/21s | 1.35s/step]
+
+Epoch/Iter:407/0000 Train Loss:0.175524 
+Epoch/Iter:407/0000 Test Loss:1.229437 acc:0.863598 data:val 
+step: 408/600 68% [Remain: 0h/ 4m/20s | 1.36s/step]
+
+Epoch/Iter:408/0000 Train Loss:0.106361 
+Epoch/Iter:408/0000 Test Loss:1.273727 acc:0.843750 data:val 
+step: 409/600 68% [Remain: 0h/ 4m/18s | 1.35s/step]
+
+Epoch/Iter:409/0000 Train Loss:0.053001 
+Epoch/Iter:409/0000 Test Loss:1.284824 acc:0.810389 data:val 
+step: 410/600 68% [Remain: 0h/ 4m/17s | 1.35s/step]
+
+Epoch/Iter:410/0000 Train Loss:0.175738 
+Epoch/Iter:410/0000 Test Loss:1.221626 acc:0.879645 data:val 
+step: 411/600 68% [Remain: 0h/ 4m/15s | 1.35s/step]
+
+Epoch/Iter:411/0000 Train Loss:0.047378 
+Epoch/Iter:411/0000 Test Loss:1.301717 acc:0.881757 data:val 
+step: 412/600 69% [Remain: 0h/ 4m/14s | 1.35s/step]
+
+Epoch/Iter:412/0000 Train Loss:0.010967 
+Epoch/Iter:412/0000 Test Loss:1.270526 acc:0.777449 data:val 
+step: 413/600 69% [Remain: 0h/ 4m/13s | 1.35s/step]
+
+Epoch/Iter:413/0000 Train Loss:0.318709 
+Epoch/Iter:413/0000 Test Loss:1.027910 acc:0.873733 data:val 
+step: 414/600 69% [Remain: 0h/ 4m/11s | 1.35s/step]
+
+Epoch/Iter:414/0000 Train Loss:0.051638 
+Epoch/Iter:414/0000 Test Loss:1.083028 acc:0.863176 data:val 
+step: 415/600 69% [Remain: 0h/ 4m/10s | 1.35s/step]
+
+Epoch/Iter:415/0000 Train Loss:0.040681 
+Epoch/Iter:415/0000 Test Loss:1.153436 acc:0.875000 data:val 
+step: 416/600 69% [Remain: 0h/ 4m/ 9s | 1.35s/step]
+
+Epoch/Iter:416/0000 Train Loss:0.046383 
+Epoch/Iter:416/0000 Test Loss:1.179910 acc:0.885980 data:val 
+step: 417/600 70% [Remain: 0h/ 4m/ 7s | 1.35s/step]
+
+Epoch/Iter:417/0000 Train Loss:0.013818 
+Epoch/Iter:417/0000 Test Loss:1.191912 acc:0.834459 data:val 
+step: 418/600 70% [Remain: 0h/ 4m/ 6s | 1.35s/step]
+
+Epoch/Iter:418/0000 Train Loss:0.078410 
+Epoch/Iter:418/0000 Test Loss:1.446883 acc:0.794341 data:val 
+step: 419/600 70% [Remain: 0h/ 4m/ 5s | 1.35s/step]
+
+Epoch/Iter:419/0000 Train Loss:0.302295 
+Epoch/Iter:419/0000 Test Loss:1.636188 acc:0.696368 data:val 
+step: 420/600 70% [Remain: 0h/ 4m/ 3s | 1.35s/step]
+
+Epoch/Iter:420/0000 Train Loss:0.212285 
+Epoch/Iter:420/0000 Test Loss:1.163656 acc:0.854307 data:val 
+step: 421/600 70% [Remain: 0h/ 4m/ 2s | 1.35s/step]
+
+Epoch/Iter:421/0000 Train Loss:0.087264 
+Epoch/Iter:421/0000 Test Loss:1.286985 acc:0.791807 data:val 
+step: 422/600 70% [Remain: 0h/ 4m/ 0s | 1.35s/step]
+
+Epoch/Iter:422/0000 Train Loss:0.200066 
+Epoch/Iter:422/0000 Test Loss:1.083091 acc:0.842483 data:val 
+step: 423/600 70% [Remain: 0h/ 3m/59s | 1.35s/step]
+
+Epoch/Iter:423/0000 Train Loss:0.092086 
+Epoch/Iter:423/0000 Test Loss:1.500976 acc:0.771959 data:val 
+step: 424/600 71% [Remain: 0h/ 3m/58s | 1.35s/step]
+
+Epoch/Iter:424/0000 Train Loss:0.210883 
+Epoch/Iter:424/0000 Test Loss:1.867411 acc:0.726774 data:val 
+step: 425/600 71% [Remain: 0h/ 3m/56s | 1.35s/step]
+
+Epoch/Iter:425/0000 Train Loss:0.171236 
+Epoch/Iter:425/0000 Test Loss:1.272400 acc:0.783361 data:val 
+step: 426/600 71% [Remain: 0h/ 3m/55s | 1.35s/step]
+
+Epoch/Iter:426/0000 Train Loss:0.226001 
+Epoch/Iter:426/0000 Test Loss:1.451404 acc:0.774916 data:val 
+step: 427/600 71% [Remain: 0h/ 3m/54s | 1.35s/step]
+
+Epoch/Iter:427/0000 Train Loss:0.157362 
+Epoch/Iter:427/0000 Test Loss:3.412740 acc:0.542230 data:val 
+step: 428/600 71% [Remain: 0h/ 3m/52s | 1.35s/step]
+
+Epoch/Iter:428/0000 Train Loss:1.372755 
+Epoch/Iter:428/0000 Test Loss:1.630774 acc:0.699747 data:val 
+step: 429/600 72% [Remain: 0h/ 3m/51s | 1.35s/step]
+
+Epoch/Iter:429/0000 Train Loss:0.305369 
+Epoch/Iter:429/0000 Test Loss:1.183430 acc:0.885557 data:val 
+step: 430/600 72% [Remain: 0h/ 3m/50s | 1.35s/step]
+
+Epoch/Iter:430/0000 Train Loss:0.038905 
+Epoch/Iter:430/0000 Test Loss:1.364829 acc:0.842905 data:val 
+step: 431/600 72% [Remain: 0h/ 3m/48s | 1.35s/step]
+
+Epoch/Iter:431/0000 Train Loss:0.157831 
+Epoch/Iter:431/0000 Test Loss:1.219844 acc:0.888514 data:val 
+step: 432/600 72% [Remain: 0h/ 3m/47s | 1.35s/step]
+
+Epoch/Iter:432/0000 Train Loss:0.006638 
+Epoch/Iter:432/0000 Test Loss:1.338876 acc:0.801943 data:val 
+step: 433/600 72% [Remain: 0h/ 3m/46s | 1.35s/step]
+
+Epoch/Iter:433/0000 Train Loss:0.264531 
+Epoch/Iter:433/0000 Test Loss:1.551486 acc:0.782517 data:val 
+step: 434/600 72% [Remain: 0h/ 3m/44s | 1.35s/step]
+
+Epoch/Iter:434/0000 Train Loss:0.126923 
+Epoch/Iter:434/0000 Test Loss:1.464272 acc:0.793074 data:val 
+step: 435/600 72% [Remain: 0h/ 3m/43s | 1.35s/step]
+
+Epoch/Iter:435/0000 Train Loss:0.234198 
+Epoch/Iter:435/0000 Test Loss:1.910340 acc:0.700169 data:val 
+step: 436/600 73% [Remain: 0h/ 3m/42s | 1.35s/step]
+
+Epoch/Iter:436/0000 Train Loss:0.729100 
+Epoch/Iter:436/0000 Test Loss:2.273845 acc:0.663007 data:val 
+step: 437/600 73% [Remain: 0h/ 3m/40s | 1.35s/step]
+
+Epoch/Iter:437/0000 Train Loss:0.553279 
+Epoch/Iter:437/0000 Test Loss:1.059598 acc:0.882179 data:val 
+step: 438/600 73% [Remain: 0h/ 3m/39s | 1.35s/step]
+
+Epoch/Iter:438/0000 Train Loss:0.027402 
+Epoch/Iter:438/0000 Test Loss:1.055966 acc:0.888091 data:val 
+step: 439/600 73% [Remain: 0h/ 3m/37s | 1.35s/step]
+
+Epoch/Iter:439/0000 Train Loss:0.017083 
+Epoch/Iter:439/0000 Test Loss:1.073919 acc:0.885557 data:val 
+step: 440/600 73% [Remain: 0h/ 3m/36s | 1.35s/step]
+
+Epoch/Iter:440/0000 Train Loss:0.017377 
+Epoch/Iter:440/0000 Test Loss:1.103008 acc:0.875000 data:val 
+step: 441/600 74% [Remain: 0h/ 3m/35s | 1.35s/step]
+
+Epoch/Iter:441/0000 Train Loss:0.056151 
+Epoch/Iter:441/0000 Test Loss:1.111680 acc:0.883868 data:val 
+step: 442/600 74% [Remain: 0h/ 3m/33s | 1.35s/step]
+
+Epoch/Iter:442/0000 Train Loss:0.006959 
+Epoch/Iter:442/0000 Test Loss:1.662763 acc:0.811655 data:val 
+step: 443/600 74% [Remain: 0h/ 3m/32s | 1.35s/step]
+
+Epoch/Iter:443/0000 Train Loss:0.038927 
+Epoch/Iter:443/0000 Test Loss:1.589634 acc:0.811655 data:val 
+step: 444/600 74% [Remain: 0h/ 3m/31s | 1.35s/step]
+
+Epoch/Iter:444/0000 Train Loss:0.029860 
+Epoch/Iter:444/0000 Test Loss:1.746013 acc:0.746622 data:val 
+step: 445/600 74% [Remain: 0h/ 3m/29s | 1.35s/step]
+
+Epoch/Iter:445/0000 Train Loss:0.085839 
+Epoch/Iter:445/0000 Test Loss:1.311619 acc:0.826014 data:val 
+step: 446/600 74% [Remain: 0h/ 3m/28s | 1.35s/step]
+
+Epoch/Iter:446/0000 Train Loss:0.019346 
+Epoch/Iter:446/0000 Test Loss:1.643204 acc:0.823480 data:val 
+step: 447/600 74% [Remain: 0h/ 3m/27s | 1.35s/step]
+
+Epoch/Iter:447/0000 Train Loss:0.016366 
+Epoch/Iter:447/0000 Test Loss:1.601717 acc:0.804899 data:val 
+step: 448/600 75% [Remain: 0h/ 3m/25s | 1.35s/step]
+
+Epoch/Iter:448/0000 Train Loss:0.029828 
+Epoch/Iter:448/0000 Test Loss:1.498634 acc:0.850929 data:val 
+step: 449/600 75% [Remain: 0h/ 3m/24s | 1.35s/step]
+
+Epoch/Iter:449/0000 Train Loss:0.017199 
+Epoch/Iter:449/0000 Test Loss:1.461592 acc:0.858108 data:val 
+step: 450/600 75% [Remain: 0h/ 3m/23s | 1.35s/step]
+
+Epoch/Iter:450/0000 Train Loss:0.006746 
+Epoch/Iter:450/0000 Test Loss:3.240468 acc:0.453547 data:val 
+step: 451/600 75% [Remain: 0h/ 3m/21s | 1.35s/step]
+
+Epoch/Iter:451/0000 Train Loss:2.213933 
+Epoch/Iter:451/0000 Test Loss:2.306934 acc:0.696368 data:val 
+step: 452/600 75% [Remain: 0h/ 3m/20s | 1.35s/step]
+
+Epoch/Iter:452/0000 Train Loss:0.274675 
+Epoch/Iter:452/0000 Test Loss:1.545702 acc:0.842061 data:val 
+step: 453/600 76% [Remain: 0h/ 3m/19s | 1.35s/step]
+
+Epoch/Iter:453/0000 Train Loss:0.088615 
+Epoch/Iter:453/0000 Test Loss:1.521504 acc:0.866554 data:val 
+step: 454/600 76% [Remain: 0h/ 3m/17s | 1.35s/step]
+
+Epoch/Iter:454/0000 Train Loss:0.035411 
+Epoch/Iter:454/0000 Test Loss:1.430505 acc:0.877534 data:val 
+step: 455/600 76% [Remain: 0h/ 3m/16s | 1.35s/step]
+
+Epoch/Iter:455/0000 Train Loss:0.019709 
+Epoch/Iter:455/0000 Test Loss:2.005826 acc:0.724240 data:val 
+step: 456/600 76% [Remain: 0h/ 3m/15s | 1.35s/step]
+
+Epoch/Iter:456/0000 Train Loss:0.396747 
+Epoch/Iter:456/0000 Test Loss:2.152315 acc:0.696791 data:val 
+step: 457/600 76% [Remain: 0h/ 3m/13s | 1.35s/step]
+
+Epoch/Iter:457/0000 Train Loss:0.278394 
+Epoch/Iter:457/0000 Test Loss:1.455165 acc:0.805321 data:val 
+step: 458/600 76% [Remain: 0h/ 3m/12s | 1.35s/step]
+
+Epoch/Iter:458/0000 Train Loss:0.116574 
+Epoch/Iter:458/0000 Test Loss:1.453398 acc:0.820946 data:val 
+step: 459/600 76% [Remain: 0h/ 3m/10s | 1.35s/step]
+
+Epoch/Iter:459/0000 Train Loss:0.063890 
+Epoch/Iter:459/0000 Test Loss:1.728522 acc:0.628378 data:val 
+step: 460/600 77% [Remain: 0h/ 3m/ 9s | 1.35s/step]
+
+Epoch/Iter:460/0000 Train Loss:0.636259 
+Epoch/Iter:460/0000 Test Loss:1.391301 acc:0.882179 data:val 
+step: 461/600 77% [Remain: 0h/ 3m/ 8s | 1.35s/step]
+
+Epoch/Iter:461/0000 Train Loss:0.020735 
+Epoch/Iter:461/0000 Test Loss:2.107136 acc:0.652872 data:val 
+step: 462/600 77% [Remain: 0h/ 3m/ 6s | 1.35s/step]
+
+Epoch/Iter:462/0000 Train Loss:0.364246 
+Epoch/Iter:462/0000 Test Loss:1.687212 acc:0.774493 data:val 
+step: 463/600 77% [Remain: 0h/ 3m/ 5s | 1.35s/step]
+
+Epoch/Iter:463/0000 Train Loss:0.170835 
+Epoch/Iter:463/0000 Test Loss:1.498148 acc:0.812078 data:val 
+step: 464/600 77% [Remain: 0h/ 3m/ 4s | 1.35s/step]
+
+Epoch/Iter:464/0000 Train Loss:0.209156 
+Epoch/Iter:464/0000 Test Loss:1.337015 acc:0.792230 data:val 
+step: 465/600 78% [Remain: 0h/ 3m/ 2s | 1.35s/step]
+
+Epoch/Iter:465/0000 Train Loss:0.227582 
+Epoch/Iter:465/0000 Test Loss:1.332589 acc:0.838260 data:val 
+step: 466/600 78% [Remain: 0h/ 3m/ 1s | 1.35s/step]
+
+Epoch/Iter:466/0000 Train Loss:0.098265 
+Epoch/Iter:466/0000 Test Loss:1.940188 acc:0.750000 data:val 
+step: 467/600 78% [Remain: 0h/ 3m/ 0s | 1.35s/step]
+
+Epoch/Iter:467/0000 Train Loss:0.184615 
+Epoch/Iter:467/0000 Test Loss:1.508785 acc:0.817568 data:val 
+step: 468/600 78% [Remain: 0h/ 2m/58s | 1.35s/step]
+
+Epoch/Iter:468/0000 Train Loss:0.118192 
+Epoch/Iter:468/0000 Test Loss:1.447765 acc:0.839105 data:val 
+step: 469/600 78% [Remain: 0h/ 2m/57s | 1.35s/step]
+
+Epoch/Iter:469/0000 Train Loss:0.080430 
+Epoch/Iter:469/0000 Test Loss:1.356284 acc:0.872889 data:val 
+step: 470/600 78% [Remain: 0h/ 2m/56s | 1.35s/step]
+
+Epoch/Iter:470/0000 Train Loss:0.066843 
+Epoch/Iter:470/0000 Test Loss:1.392704 acc:0.832770 data:val 
+step: 471/600 78% [Remain: 0h/ 2m/54s | 1.35s/step]
+
+Epoch/Iter:471/0000 Train Loss:0.104962 
+Epoch/Iter:471/0000 Test Loss:1.323919 acc:0.799409 data:val 
+step: 472/600 79% [Remain: 0h/ 2m/53s | 1.35s/step]
+
+Epoch/Iter:472/0000 Train Loss:0.198493 
+Epoch/Iter:472/0000 Test Loss:1.679998 acc:0.711571 data:val 
+step: 473/600 79% [Remain: 0h/ 2m/52s | 1.35s/step]
+
+Epoch/Iter:473/0000 Train Loss:0.210650 
+Epoch/Iter:473/0000 Test Loss:1.316300 acc:0.873733 data:val 
+step: 474/600 79% [Remain: 0h/ 2m/50s | 1.35s/step]
+
+Epoch/Iter:474/0000 Train Loss:0.047644 
+Epoch/Iter:474/0000 Test Loss:1.296643 acc:0.832770 data:val 
+step: 475/600 79% [Remain: 0h/ 2m/49s | 1.35s/step]
+
+Epoch/Iter:475/0000 Train Loss:0.075767 
+Epoch/Iter:475/0000 Test Loss:2.217523 acc:0.658361 data:val 
+step: 476/600 79% [Remain: 0h/ 2m/47s | 1.35s/step]
+
+Epoch/Iter:476/0000 Train Loss:0.546057 
+Epoch/Iter:476/0000 Test Loss:1.398748 acc:0.847973 data:val 
+step: 477/600 80% [Remain: 0h/ 2m/46s | 1.35s/step]
+
+Epoch/Iter:477/0000 Train Loss:0.099657 
+Epoch/Iter:477/0000 Test Loss:1.364709 acc:0.879645 data:val 
+step: 478/600 80% [Remain: 0h/ 2m/45s | 1.35s/step]
+
+Epoch/Iter:478/0000 Train Loss:0.006772 
+Epoch/Iter:478/0000 Test Loss:1.418987 acc:0.796030 data:val 
+step: 479/600 80% [Remain: 0h/ 2m/43s | 1.35s/step]
+
+Epoch/Iter:479/0000 Train Loss:0.091534 
+Epoch/Iter:479/0000 Test Loss:1.322036 acc:0.858953 data:val 
+step: 480/600 80% [Remain: 0h/ 2m/42s | 1.36s/step]
+
+Epoch/Iter:480/0000 Train Loss:0.023395 
+Epoch/Iter:480/0000 Test Loss:1.189857 acc:0.870355 data:val 
+step: 481/600 80% [Remain: 0h/ 2m/41s | 1.36s/step]
+
+Epoch/Iter:481/0000 Train Loss:0.042344 
+Epoch/Iter:481/0000 Test Loss:3.072876 acc:0.543497 data:val 
+step: 482/600 80% [Remain: 0h/ 2m/39s | 1.36s/step]
+
+Epoch/Iter:482/0000 Train Loss:0.820618 
+Epoch/Iter:482/0000 Test Loss:1.366101 acc:0.823902 data:val 
+step: 483/600 80% [Remain: 0h/ 2m/38s | 1.36s/step]
+
+Epoch/Iter:483/0000 Train Loss:0.113694 
+Epoch/Iter:483/0000 Test Loss:1.293061 acc:0.833615 data:val 
+step: 484/600 81% [Remain: 0h/ 2m/37s | 1.36s/step]
+
+Epoch/Iter:484/0000 Train Loss:0.044649 
+Epoch/Iter:484/0000 Test Loss:1.180493 acc:0.869088 data:val 
+step: 485/600 81% [Remain: 0h/ 2m/35s | 1.36s/step]
+
+Epoch/Iter:485/0000 Train Loss:0.020074 
+Epoch/Iter:485/0000 Test Loss:1.234520 acc:0.872044 data:val 
+step: 486/600 81% [Remain: 0h/ 2m/34s | 1.36s/step]
+
+Epoch/Iter:486/0000 Train Loss:0.005287 
+Epoch/Iter:486/0000 Test Loss:1.435997 acc:0.813767 data:val 
+step: 487/600 81% [Remain: 0h/ 2m/33s | 1.36s/step]
+
+Epoch/Iter:487/0000 Train Loss:0.053129 
+Epoch/Iter:487/0000 Test Loss:1.322336 acc:0.858530 data:val 
+step: 488/600 81% [Remain: 0h/ 2m/31s | 1.36s/step]
+
+Epoch/Iter:488/0000 Train Loss:0.012093 
+Epoch/Iter:488/0000 Test Loss:1.334446 acc:0.820946 data:val 
+step: 489/600 82% [Remain: 0h/ 2m/30s | 1.36s/step]
+
+Epoch/Iter:489/0000 Train Loss:0.117581 
+Epoch/Iter:489/0000 Test Loss:1.602794 acc:0.750422 data:val 
+step: 490/600 82% [Remain: 0h/ 2m/29s | 1.35s/step]
+
+Epoch/Iter:490/0000 Train Loss:0.092347 
+Epoch/Iter:490/0000 Test Loss:1.389264 acc:0.835726 data:val 
+step: 491/600 82% [Remain: 0h/ 2m/27s | 1.35s/step]
+
+Epoch/Iter:491/0000 Train Loss:0.027342 
+Epoch/Iter:491/0000 Test Loss:1.525638 acc:0.745355 data:val 
+step: 492/600 82% [Remain: 0h/ 2m/26s | 1.35s/step]
+
+Epoch/Iter:492/0000 Train Loss:0.143283 
+Epoch/Iter:492/0000 Test Loss:1.348681 acc:0.850084 data:val 
+step: 493/600 82% [Remain: 0h/ 2m/24s | 1.35s/step]
+
+Epoch/Iter:493/0000 Train Loss:0.037619 
+Epoch/Iter:493/0000 Test Loss:1.665000 acc:0.781250 data:val 
+step: 494/600 82% [Remain: 0h/ 2m/23s | 1.35s/step]
+
+Epoch/Iter:494/0000 Train Loss:0.220749 
+Epoch/Iter:494/0000 Test Loss:1.279883 acc:0.858108 data:val 
+step: 495/600 82% [Remain: 0h/ 2m/22s | 1.35s/step]
+
+Epoch/Iter:495/0000 Train Loss:0.014477 
+Epoch/Iter:495/0000 Test Loss:1.628475 acc:0.734797 data:val 
+step: 496/600 83% [Remain: 0h/ 2m/20s | 1.35s/step]
+
+Epoch/Iter:496/0000 Train Loss:0.427153 
+Epoch/Iter:496/0000 Test Loss:1.320622 acc:0.873311 data:val 
+step: 497/600 83% [Remain: 0h/ 2m/19s | 1.35s/step]
+
+Epoch/Iter:497/0000 Train Loss:0.021079 
+Epoch/Iter:497/0000 Test Loss:1.588524 acc:0.827703 data:val 
+step: 498/600 83% [Remain: 0h/ 2m/18s | 1.35s/step]
+
+Epoch/Iter:498/0000 Train Loss:0.096146 
+Epoch/Iter:498/0000 Test Loss:1.434805 acc:0.838682 data:val 
+step: 499/600 83% [Remain: 0h/ 2m/16s | 1.35s/step]
+
+Epoch/Iter:499/0000 Train Loss:0.033383 
+Epoch/Iter:499/0000 Test Loss:1.508173 acc:0.843750 data:val 
+step: 500/600 83% [Remain: 0h/ 2m/15s | 1.35s/step]
+
+Epoch/Iter:500/0000 Train Loss:0.058785 
+Epoch/Iter:500/0000 Test Loss:1.391712 acc:0.842905 data:val 
+step: 501/600 84% [Remain: 0h/ 2m/14s | 1.35s/step]
+
+Epoch/Iter:501/0000 Train Loss:0.099186 
+Epoch/Iter:501/0000 Test Loss:1.478403 acc:0.882179 data:val 
+step: 502/600 84% [Remain: 0h/ 2m/12s | 1.35s/step]
+
+Epoch/Iter:502/0000 Train Loss:0.057482 
+Epoch/Iter:502/0000 Test Loss:1.545597 acc:0.842483 data:val 
+step: 503/600 84% [Remain: 0h/ 2m/11s | 1.35s/step]
+
+Epoch/Iter:503/0000 Train Loss:0.046796 
+Epoch/Iter:503/0000 Test Loss:1.757824 acc:0.813345 data:val 
+step: 504/600 84% [Remain: 0h/ 2m/ 9s | 1.35s/step]
+
+Epoch/Iter:504/0000 Train Loss:0.055095 
+Epoch/Iter:504/0000 Test Loss:1.550932 acc:0.872466 data:val 
+step: 505/600 84% [Remain: 0h/ 2m/ 8s | 1.35s/step]
+
+Epoch/Iter:505/0000 Train Loss:0.022019 
+Epoch/Iter:505/0000 Test Loss:1.488028 acc:0.859797 data:val 
+step: 506/600 84% [Remain: 0h/ 2m/ 7s | 1.35s/step]
+
+Epoch/Iter:506/0000 Train Loss:0.033140 
+Epoch/Iter:506/0000 Test Loss:1.472361 acc:0.794764 data:val 
+step: 507/600 84% [Remain: 0h/ 2m/ 5s | 1.35s/step]
+
+Epoch/Iter:507/0000 Train Loss:0.104382 
+Epoch/Iter:507/0000 Test Loss:1.541448 acc:0.843328 data:val 
+step: 508/600 85% [Remain: 0h/ 2m/ 4s | 1.35s/step]
+
+Epoch/Iter:508/0000 Train Loss:0.045977 
+Epoch/Iter:508/0000 Test Loss:1.551262 acc:0.869932 data:val 
+step: 509/600 85% [Remain: 0h/ 2m/ 3s | 1.35s/step]
+
+Epoch/Iter:509/0000 Train Loss:0.006044 
+Epoch/Iter:509/0000 Test Loss:1.505978 acc:0.818412 data:val 
+step: 510/600 85% [Remain: 0h/ 2m/ 1s | 1.35s/step]
+
+Epoch/Iter:510/0000 Train Loss:0.042554 
+Epoch/Iter:510/0000 Test Loss:1.428972 acc:0.873733 data:val 
+step: 511/600 85% [Remain: 0h/ 2m/ 0s | 1.35s/step]
+
+Epoch/Iter:511/0000 Train Loss:0.009103 
+Epoch/Iter:511/0000 Test Loss:1.656347 acc:0.820101 data:val 
+step: 512/600 85% [Remain: 0h/ 1m/59s | 1.35s/step]
+
+Epoch/Iter:512/0000 Train Loss:0.062663 
+Epoch/Iter:512/0000 Test Loss:1.164690 acc:0.819257 data:val 
+step: 513/600 86% [Remain: 0h/ 1m/57s | 1.35s/step]
+
+Epoch/Iter:513/0000 Train Loss:0.158427 
+Epoch/Iter:513/0000 Test Loss:1.147973 acc:0.862753 data:val 
+step: 514/600 86% [Remain: 0h/ 1m/56s | 1.35s/step]
+
+Epoch/Iter:514/0000 Train Loss:0.031061 
+Epoch/Iter:514/0000 Test Loss:1.311328 acc:0.837416 data:val 
+step: 515/600 86% [Remain: 0h/ 1m/55s | 1.35s/step]
+
+Epoch/Iter:515/0000 Train Loss:0.036835 
+Epoch/Iter:515/0000 Test Loss:2.779265 acc:0.568834 data:val 
+step: 516/600 86% [Remain: 0h/ 1m/53s | 1.35s/step]
+
+Epoch/Iter:516/0000 Train Loss:0.847113 
+Epoch/Iter:516/0000 Test Loss:1.221406 acc:0.861064 data:val 
+step: 517/600 86% [Remain: 0h/ 1m/52s | 1.35s/step]
+
+Epoch/Iter:517/0000 Train Loss:0.019505 
+Epoch/Iter:517/0000 Test Loss:1.294060 acc:0.844172 data:val 
+step: 518/600 86% [Remain: 0h/ 1m/51s | 1.35s/step]
+
+Epoch/Iter:518/0000 Train Loss:0.046792 
+Epoch/Iter:518/0000 Test Loss:1.303574 acc:0.866976 data:val 
+step: 519/600 86% [Remain: 0h/ 1m/49s | 1.35s/step]
+
+Epoch/Iter:519/0000 Train Loss:0.012992 
+Epoch/Iter:519/0000 Test Loss:1.946341 acc:0.654139 data:val 
+step: 520/600 87% [Remain: 0h/ 1m/48s | 1.35s/step]
+
+Epoch/Iter:520/0000 Train Loss:0.423055 
+Epoch/Iter:520/0000 Test Loss:1.596735 acc:0.779983 data:val 
+step: 521/600 87% [Remain: 0h/ 1m/46s | 1.35s/step]
+
+Epoch/Iter:521/0000 Train Loss:0.126532 
+Epoch/Iter:521/0000 Test Loss:1.539768 acc:0.789274 data:val 
+step: 522/600 87% [Remain: 0h/ 1m/45s | 1.35s/step]
+
+Epoch/Iter:522/0000 Train Loss:0.178999 
+Epoch/Iter:522/0000 Test Loss:2.140857 acc:0.698057 data:val 
+step: 523/600 87% [Remain: 0h/ 1m/44s | 1.35s/step]
+
+Epoch/Iter:523/0000 Train Loss:0.105911 
+Epoch/Iter:523/0000 Test Loss:1.620655 acc:0.820524 data:val 
+step: 524/600 87% [Remain: 0h/ 1m/42s | 1.35s/step]
+
+Epoch/Iter:524/0000 Train Loss:0.055803 
+Epoch/Iter:524/0000 Test Loss:1.619096 acc:0.829814 data:val 
+step: 525/600 88% [Remain: 0h/ 1m/41s | 1.35s/step]
+
+Epoch/Iter:525/0000 Train Loss:0.017498 
+Epoch/Iter:525/0000 Test Loss:1.689853 acc:0.780405 data:val 
+step: 526/600 88% [Remain: 0h/ 1m/40s | 1.35s/step]
+
+Epoch/Iter:526/0000 Train Loss:0.070787 
+Epoch/Iter:526/0000 Test Loss:1.619998 acc:0.803632 data:val 
+step: 527/600 88% [Remain: 0h/ 1m/38s | 1.35s/step]
+
+Epoch/Iter:527/0000 Train Loss:0.083066 
+Epoch/Iter:527/0000 Test Loss:2.649597 acc:0.667652 data:val 
+step: 528/600 88% [Remain: 0h/ 1m/37s | 1.35s/step]
+
+Epoch/Iter:528/0000 Train Loss:0.388853 
+Epoch/Iter:528/0000 Test Loss:1.383517 acc:0.849662 data:val 
+step: 529/600 88% [Remain: 0h/ 1m/36s | 1.35s/step]
+
+Epoch/Iter:529/0000 Train Loss:0.036511 
+Epoch/Iter:529/0000 Test Loss:1.478767 acc:0.862753 data:val 
+step: 530/600 88% [Remain: 0h/ 1m/34s | 1.35s/step]
+
+Epoch/Iter:530/0000 Train Loss:0.026177 
+Epoch/Iter:530/0000 Test Loss:1.612594 acc:0.843750 data:val 
+step: 531/600 88% [Remain: 0h/ 1m/33s | 1.35s/step]
+
+Epoch/Iter:531/0000 Train Loss:0.069917 
+Epoch/Iter:531/0000 Test Loss:1.436458 acc:0.814189 data:val 
+step: 532/600 89% [Remain: 0h/ 1m/32s | 1.35s/step]
+
+Epoch/Iter:532/0000 Train Loss:0.098967 
+Epoch/Iter:532/0000 Test Loss:1.449495 acc:0.814611 data:val 
+step: 533/600 89% [Remain: 0h/ 1m/30s | 1.35s/step]
+
+Epoch/Iter:533/0000 Train Loss:0.056813 
+Epoch/Iter:533/0000 Test Loss:1.384236 acc:0.849662 data:val 
+step: 534/600 89% [Remain: 0h/ 1m/29s | 1.35s/step]
+
+Epoch/Iter:534/0000 Train Loss:0.031789 
+Epoch/Iter:534/0000 Test Loss:1.829726 acc:0.769003 data:val 
+step: 535/600 89% [Remain: 0h/ 1m/27s | 1.35s/step]
+
+Epoch/Iter:535/0000 Train Loss:0.058195 
+Epoch/Iter:535/0000 Test Loss:1.411286 acc:0.861486 data:val 
+step: 536/600 89% [Remain: 0h/ 1m/26s | 1.35s/step]
+
+Epoch/Iter:536/0000 Train Loss:0.010594 
+Epoch/Iter:536/0000 Test Loss:1.410061 acc:0.866132 data:val 
+step: 537/600 90% [Remain: 0h/ 1m/25s | 1.35s/step]
+
+Epoch/Iter:537/0000 Train Loss:0.007997 
+Epoch/Iter:537/0000 Test Loss:1.644388 acc:0.840372 data:val 
+step: 538/600 90% [Remain: 0h/ 1m/23s | 1.35s/step]
+
+Epoch/Iter:538/0000 Train Loss:0.071630 
+Epoch/Iter:538/0000 Test Loss:1.588341 acc:0.748733 data:val 
+step: 539/600 90% [Remain: 0h/ 1m/22s | 1.35s/step]
+
+Epoch/Iter:539/0000 Train Loss:0.165327 
+Epoch/Iter:539/0000 Test Loss:1.398665 acc:0.858108 data:val 
+step: 540/600 90% [Remain: 0h/ 1m/21s | 1.35s/step]
+
+Epoch/Iter:540/0000 Train Loss:0.006092 
+Epoch/Iter:540/0000 Test Loss:1.365476 acc:0.817145 data:val 
+step: 541/600 90% [Remain: 0h/ 1m/19s | 1.35s/step]
+
+Epoch/Iter:541/0000 Train Loss:0.079229 
+Epoch/Iter:541/0000 Test Loss:1.150355 acc:0.876267 data:val 
+step: 542/600 90% [Remain: 0h/ 1m/18s | 1.35s/step]
+
+Epoch/Iter:542/0000 Train Loss:0.015049 
+Epoch/Iter:542/0000 Test Loss:1.219091 acc:0.877111 data:val 
+step: 543/600 90% [Remain: 0h/ 1m/17s | 1.35s/step]
+
+Epoch/Iter:543/0000 Train Loss:0.006783 
+Epoch/Iter:543/0000 Test Loss:1.263465 acc:0.879645 data:val 
+step: 544/600 91% [Remain: 0h/ 1m/15s | 1.35s/step]
+
+Epoch/Iter:544/0000 Train Loss:0.003339 
+Epoch/Iter:544/0000 Test Loss:1.297271 acc:0.877956 data:val 
+step: 545/600 91% [Remain: 0h/ 1m/14s | 1.35s/step]
+
+Epoch/Iter:545/0000 Train Loss:0.002737 
+Epoch/Iter:545/0000 Test Loss:1.864286 acc:0.584459 data:val 
+step: 546/600 91% [Remain: 0h/ 1m/13s | 1.35s/step]
+
+Epoch/Iter:546/0000 Train Loss:0.777582 
+Epoch/Iter:546/0000 Test Loss:2.041003 acc:0.666807 data:val 
+step: 547/600 91% [Remain: 0h/ 1m/11s | 1.35s/step]
+
+Epoch/Iter:547/0000 Train Loss:0.273347 
+Epoch/Iter:547/0000 Test Loss:2.098141 acc:0.702703 data:val 
+step: 548/600 91% [Remain: 0h/ 1m/10s | 1.35s/step]
+
+Epoch/Iter:548/0000 Train Loss:0.266274 
+Epoch/Iter:548/0000 Test Loss:2.165912 acc:0.723395 data:val 
+step: 549/600 92% [Remain: 0h/ 1m/ 8s | 1.35s/step]
+
+Epoch/Iter:549/0000 Train Loss:0.148563 
+Epoch/Iter:549/0000 Test Loss:2.209772 acc:0.724662 data:val 
+step: 550/600 92% [Remain: 0h/ 1m/ 7s | 1.35s/step]
+
+Epoch/Iter:550/0000 Train Loss:0.092523 
+Epoch/Iter:550/0000 Test Loss:2.092113 acc:0.739443 data:val 
+step: 551/600 92% [Remain: 0h/ 1m/ 6s | 1.35s/step]
+
+Epoch/Iter:551/0000 Train Loss:0.215646 
+Epoch/Iter:551/0000 Test Loss:2.102994 acc:0.756757 data:val 
+step: 552/600 92% [Remain: 0h/ 1m/ 4s | 1.35s/step]
+
+Epoch/Iter:552/0000 Train Loss:0.109934 
+Epoch/Iter:552/0000 Test Loss:2.046342 acc:0.759291 data:val 
+step: 553/600 92% [Remain: 0h/ 1m/ 3s | 1.35s/step]
+
+Epoch/Iter:553/0000 Train Loss:0.067849 
+Epoch/Iter:553/0000 Test Loss:2.247305 acc:0.763936 data:val 
+step: 554/600 92% [Remain: 0h/ 1m/ 2s | 1.35s/step]
+
+Epoch/Iter:554/0000 Train Loss:0.049588 
+Epoch/Iter:554/0000 Test Loss:2.248217 acc:0.756334 data:val 
+step: 555/600 92% [Remain: 0h/ 1m/ 0s | 1.35s/step]
+
+Epoch/Iter:555/0000 Train Loss:0.036095 
+Epoch/Iter:555/0000 Test Loss:2.334576 acc:0.750000 data:val 
+step: 556/600 93% [Remain: 0h/ 0m/59s | 1.35s/step]
+
+Epoch/Iter:556/0000 Train Loss:0.109949 
+Epoch/Iter:556/0000 Test Loss:2.057630 acc:0.788007 data:val 
+step: 557/600 93% [Remain: 0h/ 0m/58s | 1.35s/step]
+
+Epoch/Iter:557/0000 Train Loss:0.024589 
+Epoch/Iter:557/0000 Test Loss:1.914399 acc:0.790541 data:val 
+step: 558/600 93% [Remain: 0h/ 0m/56s | 1.35s/step]
+
+Epoch/Iter:558/0000 Train Loss:0.041281 
+Epoch/Iter:558/0000 Test Loss:1.860042 acc:0.791807 data:val 
+step: 559/600 93% [Remain: 0h/ 0m/55s | 1.35s/step]
+
+Epoch/Iter:559/0000 Train Loss:0.037069 
+Epoch/Iter:559/0000 Test Loss:1.968315 acc:0.723395 data:val 
+step: 560/600 93% [Remain: 0h/ 0m/54s | 1.35s/step]
+
+Epoch/Iter:560/0000 Train Loss:0.192831 
+Epoch/Iter:560/0000 Test Loss:1.869198 acc:0.784628 data:val 
+step: 561/600 94% [Remain: 0h/ 0m/52s | 1.35s/step]
+
+Epoch/Iter:561/0000 Train Loss:0.043933 
+Epoch/Iter:561/0000 Test Loss:1.784014 acc:0.801098 data:val 
+step: 562/600 94% [Remain: 0h/ 0m/51s | 1.35s/step]
+
+Epoch/Iter:562/0000 Train Loss:0.016919 
+Epoch/Iter:562/0000 Test Loss:2.062919 acc:0.755490 data:val 
+step: 563/600 94% [Remain: 0h/ 0m/50s | 1.35s/step]
+
+Epoch/Iter:563/0000 Train Loss:0.099692 
+Epoch/Iter:563/0000 Test Loss:1.759674 acc:0.803632 data:val 
+step: 564/600 94% [Remain: 0h/ 0m/48s | 1.35s/step]
+
+Epoch/Iter:564/0000 Train Loss:0.018798 
+Epoch/Iter:564/0000 Test Loss:1.790095 acc:0.805743 data:val 
+step: 565/600 94% [Remain: 0h/ 0m/47s | 1.35s/step]
+
+Epoch/Iter:565/0000 Train Loss:0.020985 
+Epoch/Iter:565/0000 Test Loss:1.671371 acc:0.821791 data:val 
+step: 566/600 94% [Remain: 0h/ 0m/45s | 1.35s/step]
+
+Epoch/Iter:566/0000 Train Loss:0.044648 
+Epoch/Iter:566/0000 Test Loss:1.614087 acc:0.831503 data:val 
+step: 567/600 94% [Remain: 0h/ 0m/44s | 1.35s/step]
+
+Epoch/Iter:567/0000 Train Loss:0.021194 
+Epoch/Iter:567/0000 Test Loss:1.992715 acc:0.807010 data:val 
+step: 568/600 95% [Remain: 0h/ 0m/43s | 1.35s/step]
+
+Epoch/Iter:568/0000 Train Loss:0.050085 
+Epoch/Iter:568/0000 Test Loss:2.336230 acc:0.730574 data:val 
+step: 569/600 95% [Remain: 0h/ 0m/41s | 1.35s/step]
+
+Epoch/Iter:569/0000 Train Loss:0.125755 
+Epoch/Iter:569/0000 Test Loss:1.669625 acc:0.836993 data:val 
+step: 570/600 95% [Remain: 0h/ 0m/40s | 1.35s/step]
+
+Epoch/Iter:570/0000 Train Loss:0.013326 
+Epoch/Iter:570/0000 Test Loss:1.659230 acc:0.831503 data:val 
+step: 571/600 95% [Remain: 0h/ 0m/39s | 1.35s/step]
+
+Epoch/Iter:571/0000 Train Loss:0.016246 
+Epoch/Iter:571/0000 Test Loss:1.664104 acc:0.823057 data:val 
+step: 572/600 95% [Remain: 0h/ 0m/37s | 1.35s/step]
+
+Epoch/Iter:572/0000 Train Loss:0.048708 
+Epoch/Iter:572/0000 Test Loss:1.546004 acc:0.839527 data:val 
+step: 573/600 96% [Remain: 0h/ 0m/36s | 1.35s/step]
+
+Epoch/Iter:573/0000 Train Loss:0.014460 
+Epoch/Iter:573/0000 Test Loss:2.102555 acc:0.744088 data:val 
+step: 574/600 96% [Remain: 0h/ 0m/35s | 1.35s/step]
+
+Epoch/Iter:574/0000 Train Loss:0.227247 
+Epoch/Iter:574/0000 Test Loss:1.631922 acc:0.821368 data:val 
+step: 575/600 96% [Remain: 0h/ 0m/33s | 1.35s/step]
+
+Epoch/Iter:575/0000 Train Loss:0.024990 
+Epoch/Iter:575/0000 Test Loss:1.556968 acc:0.832770 data:val 
+step: 576/600 96% [Remain: 0h/ 0m/32s | 1.35s/step]
+
+Epoch/Iter:576/0000 Train Loss:0.077431 
+Epoch/Iter:576/0000 Test Loss:1.360316 acc:0.824324 data:val 
+step: 577/600 96% [Remain: 0h/ 0m/31s | 1.35s/step]
+
+Epoch/Iter:577/0000 Train Loss:0.048702 
+Epoch/Iter:577/0000 Test Loss:1.425997 acc:0.830236 data:val 
+step: 578/600 96% [Remain: 0h/ 0m/29s | 1.35s/step]
+
+Epoch/Iter:578/0000 Train Loss:0.030603 
+Epoch/Iter:578/0000 Test Loss:1.970026 acc:0.772804 data:val 
+step: 579/600 96% [Remain: 0h/ 0m/28s | 1.35s/step]
+
+Epoch/Iter:579/0000 Train Loss:0.076872 
+Epoch/Iter:579/0000 Test Loss:1.630304 acc:0.822635 data:val 
+step: 580/600 97% [Remain: 0h/ 0m/27s | 1.35s/step]
+
+Epoch/Iter:580/0000 Train Loss:0.012972 
+Epoch/Iter:580/0000 Test Loss:1.594286 acc:0.814189 data:val 
+step: 581/600 97% [Remain: 0h/ 0m/25s | 1.35s/step]
+
+Epoch/Iter:581/0000 Train Loss:0.137830 
+Epoch/Iter:581/0000 Test Loss:4.045721 acc:0.493243 data:val 
+step: 582/600 97% [Remain: 0h/ 0m/24s | 1.35s/step]
+
+Epoch/Iter:582/0000 Train Loss:0.841095 
+Epoch/Iter:582/0000 Test Loss:1.624668 acc:0.831081 data:val 
+step: 583/600 97% [Remain: 0h/ 0m/22s | 1.35s/step]
+
+Epoch/Iter:583/0000 Train Loss:0.051930 
+Epoch/Iter:583/0000 Test Loss:1.530530 acc:0.830659 data:val 
+step: 584/600 97% [Remain: 0h/ 0m/21s | 1.35s/step]
+
+Epoch/Iter:584/0000 Train Loss:0.041213 
+Epoch/Iter:584/0000 Test Loss:1.485188 acc:0.839527 data:val 
+step: 585/600 98% [Remain: 0h/ 0m/20s | 1.35s/step]
+
+Epoch/Iter:585/0000 Train Loss:0.044443 
+Epoch/Iter:585/0000 Test Loss:1.495497 acc:0.853463 data:val 
+step: 586/600 98% [Remain: 0h/ 0m/18s | 1.35s/step]
+
+Epoch/Iter:586/0000 Train Loss:0.008914 
+Epoch/Iter:586/0000 Test Loss:1.039637 acc:0.848818 data:val 
+step: 587/600 98% [Remain: 0h/ 0m/17s | 1.35s/step]
+
+Epoch/Iter:587/0000 Train Loss:0.048016 
+Epoch/Iter:587/0000 Test Loss:1.150737 acc:0.858530 data:val 
+step: 588/600 98% [Remain: 0h/ 0m/16s | 1.35s/step]
+
+Epoch/Iter:588/0000 Train Loss:0.015776 
+Epoch/Iter:588/0000 Test Loss:1.539542 acc:0.779139 data:val 
+step: 589/600 98% [Remain: 0h/ 0m/14s | 1.35s/step]
+
+Epoch/Iter:589/0000 Train Loss:0.257067 
+Epoch/Iter:589/0000 Test Loss:1.300839 acc:0.860220 data:val 
+step: 590/600 98% [Remain: 0h/ 0m/13s | 1.35s/step]
+
+Epoch/Iter:590/0000 Train Loss:0.012637 
+Epoch/Iter:590/0000 Test Loss:1.258665 acc:0.864443 data:val 
+step: 591/600 98% [Remain: 0h/ 0m/12s | 1.35s/step]
+
+Epoch/Iter:591/0000 Train Loss:0.013916 
+Epoch/Iter:591/0000 Test Loss:1.278934 acc:0.868243 data:val 
+step: 592/600 99% [Remain: 0h/ 0m/10s | 1.35s/step]
+
+Epoch/Iter:592/0000 Train Loss:0.001495 
+Epoch/Iter:592/0000 Test Loss:1.503741 acc:0.815034 data:val 
+step: 593/600 99% [Remain: 0h/ 0m/ 9s | 1.35s/step]
+
+Epoch/Iter:593/0000 Train Loss:0.036173 
+Epoch/Iter:593/0000 Test Loss:1.369664 acc:0.833615 data:val 
+step: 594/600 99% [Remain: 0h/ 0m/ 8s | 1.35s/step]
+
+Epoch/Iter:594/0000 Train Loss:0.157276 
+Epoch/Iter:594/0000 Test Loss:1.501232 acc:0.839105 data:val 
+step: 595/600 99% [Remain: 0h/ 0m/ 6s | 1.35s/step]
+
+Epoch/Iter:595/0000 Train Loss:0.009427 
+Epoch/Iter:595/0000 Test Loss:1.505373 acc:0.842905 data:val 
+step: 596/600 99% [Remain: 0h/ 0m/ 5s | 1.35s/step]
+
+Epoch/Iter:596/0000 Train Loss:0.008363 
+Epoch/Iter:596/0000 Test Loss:1.672238 acc:0.812922 data:val 
+step: 597/600 100% [Remain: 0h/ 0m/ 4s | 1.35s/step]
+
+Epoch/Iter:597/0000 Train Loss:0.023291 
+Epoch/Iter:597/0000 Test Loss:1.686226 acc:0.810811 data:val 
+step: 598/600 100% [Remain: 0h/ 0m/ 2s | 1.35s/step]
+
+Epoch/Iter:598/0000 Train Loss:0.003850 
+Epoch/Iter:598/0000 Test Loss:2.542802 acc:0.656250 data:val 
+step: 599/600 100% [Remain: 0h/ 0m/ 1s | 1.35s/step]
+
+Epoch/Iter:599/0000 Train Loss:0.609529 
+Epoch/Iter:599/0000 Test Loss:1.609277 acc:0.816723 data:val 
+step: 600/600 100% [Remain: 0h/ 0m/ 0s | 1.35s/step]
+
+=> loaded checkpoint (epoch 397)
+Best epoch: 397 
+
+Epoch/Iter:000/0000 Test Loss:0.021924 acc:0.999578 data:train 
+Epoch/Iter:000/0000 Test Loss:1.275843 acc:0.889358 data:val 
